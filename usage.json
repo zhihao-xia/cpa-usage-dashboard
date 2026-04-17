@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T21:59:35+08:00",
+  "generated_at": "2026-04-17T22:00:02+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-17T21:59:32+08:00"
+      "checked_at": "2026-04-17T22:00:00+08:00"
     },
     {
       "file": "codex-pl***@litshopp.com-free.json",
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-17T21:59:34+08:00"
+      "checked_at": "2026-04-17T22:00:01+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -92,8 +92,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 9.0,
-        "remaining_percent": 91.0,
+        "used_percent": 10.0,
+        "remaining_percent": 90.0,
         "reset_at": 1776448634,
         "reset_label": "04-18 01:57"
       },
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-17T21:59:34+08:00"
+      "checked_at": "2026-04-17T22:00:01+08:00"
     }
   ]
 }
