@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CPA Usage Dashboard</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f4efe7;
+      --ink: #1f2933;
+      --muted: #6b7280;
+      --card: #fffaf2;
+      --line: #e5dccd;
+      --accent: #0f766e;
+      --accent-soft: #d8eee9;
+      --danger: #b42318;
+      --danger-soft: #fee4e2;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 10% 0%, #d8eee9 0, transparent 28rem),
+        radial-gradient(circle at 90% 10%, #f9dca8 0, transparent 26rem),
+        var(--bg);
+    }
+    main { width: min(1120px, calc(100% - 32px)); margin: 0 auto; padding: 48px 0; }
+    header { display: flex; justify-content: space-between; align-items: end; gap: 24px; margin-bottom: 28px; }
+    h1 { margin: 0; font-size: clamp(32px, 6vw, 64px); letter-spacing: -0.05em; line-height: 0.95; }
+    .subtitle { color: var(--muted); margin: 12px 0 0; font-size: 16px; }
+    .updated { padding: 10px 14px; border: 1px solid var(--line); border-radius: 999px; background: #ffffff88; white-space: nowrap; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+    .card { background: var(--card); border: 1px solid var(--line); border-radius: 24px; padding: 22px; box-shadow: 0 20px 60px #6b4f2a1f; }
+    .card-head { display: flex; justify-content: space-between; gap: 14px; align-items: start; }
+    h2 { margin: 0; font-size: 20px; word-break: break-word; }
+    p { margin: 4px 0 0; color: var(--muted); }
+    .pill { border-radius: 999px; padding: 6px 10px; font-size: 12px; font-weight: 700; text-transform: uppercase; }
+    .pill.ok { background: var(--accent-soft); color: var(--accent); }
+    .pill.bad { background: var(--danger-soft); color: var(--danger); }
+    .plan { margin-top: 18px; color: var(--muted); }
+    .plan strong { color: var(--ink); font-size: 22px; margin-left: 8px; }
+    .metric { margin-top: 18px; }
+    .metric div { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+    .metric span { color: var(--muted); }
+    .metric strong { font-size: 24px; }
+    .metric small { color: var(--muted); }
+    .bar { height: 12px; border-radius: 999px; background: #eadfcd; overflow: hidden; margin: 8px 0 6px; }
+    .bar span { display: block; height: 100%; border-radius: inherit; background: linear-gradient(90deg, var(--accent), #f59e0b); }
+    .error { margin-top: 14px; color: var(--danger); font-size: 13px; line-height: 1.5; }
+    footer { color: var(--muted); margin-top: 24px; font-size: 13px; }
+    @media (max-width: 700px) { header { display: block; } .updated { display: inline-block; margin-top: 16px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1>CPA Usage<br />Dashboard</h1>
+        <p class="subtitle">Masked Codex quota summary generated from the CPA server.</p>
+      </div>
+      <div class="updated">Updated 2026-04-17T21:44:21+08:00</div>
+    </header>
+    <section class="grid">
+        <article class="card">
+          <div class="card-head">
+            <div>
+              <h2>codex-73***@qq.com-plus.json</h2>
+              <p>73***@qq.com</p>
+            </div>
+            <span class="pill ok">ok</span>
+          </div>
+          <div class="plan">Plan <strong>Plus</strong></div>
+          <div class="metric">
+            <div><span>5h remaining</span><strong>93%</strong></div>
+            <div class="bar"><span style="width:93%"></span></div>
+            <small>Reset: 04-18 01:57</small>
+          </div>
+          <div class="metric">
+            <div><span>Weekly remaining</span><strong>97%</strong></div>
+            <div class="bar"><span style="width:97%"></span></div>
+            <small>Reset: 04-24 00:52</small>
+          </div>
+          
+        </article>
+        
+
+        <article class="card">
+          <div class="card-head">
+            <div>
+              <h2>codex-pl***@litshopp.com-free.json</h2>
+              <p>pl***@litshopp.com</p>
+            </div>
+            <span class="pill bad">disabled</span>
+          </div>
+          <div class="plan">Plan <strong>-</strong></div>
+          <div class="metric">
+            <div><span>5h remaining</span><strong>-</strong></div>
+            
+            <small>Reset: -</small>
+          </div>
+          <div class="metric">
+            <div><span>Weekly remaining</span><strong>-</strong></div>
+            
+            <small>Reset: -</small>
+          </div>
+          <p class="error">credential disabled</p>
+        </article>
+        
+
+        <article class="card">
+          <div class="card-head">
+            <div>
+              <h2>codex-xz***@163.com-plus.json</h2>
+              <p>xz***@163.com</p>
+            </div>
+            <span class="pill ok">ok</span>
+          </div>
+          <div class="plan">Plan <strong>Plus</strong></div>
+          <div class="metric">
+            <div><span>5h remaining</span><strong>93%</strong></div>
+            <div class="bar"><span style="width:93%"></span></div>
+            <small>Reset: 04-18 01:57</small>
+          </div>
+          <div class="metric">
+            <div><span>Weekly remaining</span><strong>97%</strong></div>
+            <div class="bar"><span style="width:97%"></span></div>
+            <small>Reset: 04-24 01:27</small>
+          </div>
+          
+        </article>
+        </section>
+    <footer>No tokens, auth JSON, or management keys are published.</footer>
+  </main>
+</body>
+</html>
