@@ -32,7 +32,10 @@
     header { display: flex; justify-content: space-between; align-items: end; gap: 24px; margin-bottom: 28px; }
     h1 { margin: 0; font-size: clamp(32px, 6vw, 64px); letter-spacing: -0.05em; line-height: 0.95; }
     .subtitle { color: var(--muted); margin: 12px 0 0; font-size: 16px; }
-    .updated { padding: 10px 14px; border: 1px solid var(--line); border-radius: 999px; background: #ffffff88; white-space: nowrap; }
+    .header-side { display: flex; flex-direction: column; align-items: end; gap: 10px; }
+    .updated, .refresh-status { padding: 10px 14px; border: 1px solid var(--line); border-radius: 999px; background: #ffffff88; white-space: nowrap; }
+    .refresh-status { font-size: 13px; color: var(--muted); }
+    .refresh-status[data-state="error"] { color: var(--danger); border-color: #f2b8b5; background: #fff5f4; }
     .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
     .card { background: var(--card); border: 1px solid var(--line); border-radius: 24px; padding: 22px; box-shadow: 0 20px 60px #6b4f2a1f; }
     .card-head { display: flex; justify-content: space-between; gap: 14px; align-items: start; }
@@ -51,8 +54,13 @@
     .bar { height: 12px; border-radius: 999px; background: #eadfcd; overflow: hidden; margin: 8px 0 6px; }
     .bar span { display: block; height: 100%; border-radius: inherit; background: linear-gradient(90deg, var(--accent), #f59e0b); }
     .error { margin-top: 14px; color: var(--danger); font-size: 13px; line-height: 1.5; }
+    .empty { grid-column: 1 / -1; margin: 0; padding: 28px; border: 1px dashed var(--line); border-radius: 24px; background: #fffdf8; text-align: center; }
     footer { color: var(--muted); margin-top: 24px; font-size: 13px; }
-    @media (max-width: 700px) { header { display: block; } .updated { display: inline-block; margin-top: 16px; } }
+    @media (max-width: 700px) {
+      header { display: block; }
+      .header-side { align-items: start; margin-top: 16px; }
+      .updated, .refresh-status { display: inline-block; }
+    }
   </style>
 </head>
 <body>
@@ -62,37 +70,17 @@
         <h1>CPA Usage<br />Dashboard</h1>
         <p class="subtitle">Masked Codex quota summary generated from the CPA server.</p>
       </div>
-      <div class="updated">Updated 2026-04-17T22:09:35+08:00</div>
+      <div class="header-side">
+        <div class="updated" id="updated">Updated 2026-04-17T22:18:05+08:00</div>
+        <div class="refresh-status" id="refresh-status" data-state="ok">Auto refresh every 60s</div>
+      </div>
     </header>
-    <section class="grid">
+    <section class="grid" id="records">
         <article class="card">
           <div class="card-head">
             <div>
               <h2>codex-xz***@163.com-plus.json</h2>
               <p>xz***@163.com</p>
-            </div>
-            <span class="pill ok">ok</span>
-          </div>
-          <div class="plan">Plan <strong>Plus</strong></div>
-          <div class="metric">
-            <div><span>5h remaining</span><strong>89%</strong></div>
-            <div class="bar"><span style="width:89%"></span></div>
-            <small>Reset: 04-18 01:57</small>
-          </div>
-          <div class="metric">
-            <div><span>Weekly remaining</span><strong>96%</strong></div>
-            <div class="bar"><span style="width:96%"></span></div>
-            <small>Reset: 04-24 01:27</small>
-          </div>
-          
-        </article>
-        
-
-        <article class="card">
-          <div class="card-head">
-            <div>
-              <h2>codex-73***@qq.com-plus.json</h2>
-              <p>73***@qq.com</p>
             </div>
             <span class="pill ok">ok</span>
           </div>
@@ -105,11 +93,34 @@
           <div class="metric">
             <div><span>Weekly remaining</span><strong>96%</strong></div>
             <div class="bar"><span style="width:96%"></span></div>
+            <small>Reset: 04-24 01:27</small>
+          </div>
+          
+        </article>
+    
+
+        <article class="card">
+          <div class="card-head">
+            <div>
+              <h2>codex-73***@qq.com-plus.json</h2>
+              <p>73***@qq.com</p>
+            </div>
+            <span class="pill ok">ok</span>
+          </div>
+          <div class="plan">Plan <strong>Plus</strong></div>
+          <div class="metric">
+            <div><span>5h remaining</span><strong>86%</strong></div>
+            <div class="bar"><span style="width:86%"></span></div>
+            <small>Reset: 04-18 01:57</small>
+          </div>
+          <div class="metric">
+            <div><span>Weekly remaining</span><strong>96%</strong></div>
+            <div class="bar"><span style="width:96%"></span></div>
             <small>Reset: 04-24 00:52</small>
           </div>
           
         </article>
-        
+    
 
         <article class="card">
           <div class="card-head">
@@ -132,8 +143,225 @@
           </div>
           <p class="error">credential disabled</p>
         </article>
-        </section>
+    </section>
     <footer>No tokens, auth JSON, or management keys are published.</footer>
   </main>
+  <script>
+    const DATA_URL = "./usage.json";
+    const REFRESH_MS = 60 * 1000;
+    const recordsRoot = document.getElementById("records");
+    const updatedNode = document.getElementById("updated");
+    const refreshStatusNode = document.getElementById("refresh-status");
+    let refreshInFlight = false;
+
+    function clamp(value, min, max) {
+      return Math.min(Math.max(value, min), max);
+    }
+
+    function numberOrNull(value) {
+      const parsed = Number(value);
+      return Number.isFinite(parsed) ? parsed : null;
+    }
+
+    function boolValue(value) {
+      if (value === true || value === false) {
+        return value;
+      }
+      if (typeof value === "string") {
+        const lowered = value.toLowerCase();
+        if (["true", "1", "yes"].includes(lowered)) {
+          return true;
+        }
+        if (["false", "0", "no"].includes(lowered)) {
+          return false;
+        }
+      }
+      if (typeof value === "number") {
+        return value !== 0;
+      }
+      return null;
+    }
+
+    function remainingPercent(record, key) {
+      const windowValue = record && record[key];
+      if (!windowValue || typeof windowValue !== "object") {
+        return null;
+      }
+      const parsed = numberOrNull(windowValue.remaining_percent);
+      if (parsed === null) {
+        return null;
+      }
+      return clamp(parsed, 0, 100);
+    }
+
+    function recordHealthGroup(record) {
+      if (record && (record.disabled || record.status !== "ok")) {
+        return 2;
+      }
+
+      const allowed = boolValue(record && record.allowed);
+      const limitReached = boolValue(record && record.limit_reached);
+      const fiveHour = remainingPercent(record, "five_hour");
+      const weekly = remainingPercent(record, "weekly");
+      const exhausted = (fiveHour !== null && fiveHour <= 0) || (weekly !== null && weekly <= 0);
+
+      if (allowed === false || limitReached === true || exhausted) {
+        return 1;
+      }
+
+      return 0;
+    }
+
+    function sortRecords(records) {
+      return records.slice().sort(function(left, right) {
+        const groupDiff = recordHealthGroup(left) - recordHealthGroup(right);
+        if (groupDiff !== 0) {
+          return groupDiff;
+        }
+
+        const leftFive = remainingPercent(left, "five_hour");
+        const rightFive = remainingPercent(right, "five_hour");
+        const fiveDiff = (rightFive === null ? -1 : rightFive) - (leftFive === null ? -1 : leftFive);
+        if (fiveDiff !== 0) {
+          return fiveDiff;
+        }
+
+        const leftWeek = remainingPercent(left, "weekly");
+        const rightWeek = remainingPercent(right, "weekly");
+        const weekDiff = (rightWeek === null ? -1 : rightWeek) - (leftWeek === null ? -1 : leftWeek);
+        if (weekDiff !== 0) {
+          return weekDiff;
+        }
+
+        return String(left.file || "").localeCompare(String(right.file || ""));
+      });
+    }
+
+    function createNode(tagName, className, text) {
+      const node = document.createElement(tagName);
+      if (className) {
+        node.className = className;
+      }
+      if (text !== undefined) {
+        node.textContent = text;
+      }
+      return node;
+    }
+
+    function formatPercent(value) {
+      const parsed = numberOrNull(value);
+      if (parsed === null) {
+        return "-";
+      }
+      return String(Math.round(clamp(parsed, 0, 100))) + "%";
+    }
+
+    function renderBar(value) {
+      const parsed = numberOrNull(value);
+      if (parsed === null) {
+        return null;
+      }
+      const bar = createNode("div", "bar");
+      const fill = createNode("span");
+      fill.style.width = String(Math.round(clamp(parsed, 0, 100))) + "%";
+      bar.appendChild(fill);
+      return bar;
+    }
+
+    function metricNode(label, value, resetLabel) {
+      const metric = createNode("div", "metric");
+      const row = createNode("div");
+      row.appendChild(createNode("span", "", label));
+      row.appendChild(createNode("strong", "", formatPercent(value)));
+      metric.appendChild(row);
+
+      const bar = renderBar(value);
+      if (bar) {
+        metric.appendChild(bar);
+      }
+
+      metric.appendChild(createNode("small", "", "Reset: " + (resetLabel || "-")));
+      return metric;
+    }
+
+    function renderCard(item) {
+      const article = createNode("article", "card");
+      const head = createNode("div", "card-head");
+      const headInfo = createNode("div");
+      headInfo.appendChild(createNode("h2", "", item.file || "-"));
+      headInfo.appendChild(createNode("p", "", item.email || ""));
+      head.appendChild(headInfo);
+
+      const statusClass = item.status === "ok" ? "pill ok" : "pill bad";
+      head.appendChild(createNode("span", statusClass, item.status || "unknown"));
+      article.appendChild(head);
+
+      const plan = createNode("div", "plan");
+      plan.appendChild(document.createTextNode("Plan "));
+      plan.appendChild(createNode("strong", "", item.plan || "-"));
+      article.appendChild(plan);
+
+      const fiveHour = item.five_hour || {};
+      const weekly = item.weekly || {};
+      article.appendChild(metricNode("5h remaining", fiveHour.remaining_percent, fiveHour.reset_label));
+      article.appendChild(metricNode("Weekly remaining", weekly.remaining_percent, weekly.reset_label));
+
+      if (item.error) {
+        article.appendChild(createNode("p", "error", item.error));
+      }
+      return article;
+    }
+
+    function renderPayload(payload) {
+      const generatedAt = payload && payload.generated_at ? payload.generated_at : "-";
+      updatedNode.textContent = "Updated " + generatedAt;
+
+      const records = Array.isArray(payload && payload.records) ? sortRecords(payload.records) : [];
+      const fragment = document.createDocumentFragment();
+
+      if (!records.length) {
+        fragment.appendChild(createNode("p", "empty", "No Codex credentials found."));
+      } else {
+        records.forEach(function(item) {
+          fragment.appendChild(renderCard(item));
+        });
+      }
+
+      recordsRoot.replaceChildren(fragment);
+    }
+
+    function setRefreshStatus(message, isError) {
+      refreshStatusNode.textContent = message;
+      refreshStatusNode.dataset.state = isError ? "error" : "ok";
+    }
+
+    async function refreshDashboard() {
+      if (refreshInFlight) {
+        return;
+      }
+      refreshInFlight = true;
+
+      try {
+        const response = await fetch(DATA_URL + "?ts=" + Date.now(), { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error("HTTP " + response.status);
+        }
+
+        const payload = await response.json();
+        renderPayload(payload);
+        setRefreshStatus("Auto refresh every 60s | Last check " + new Date().toLocaleTimeString(), false);
+      } catch (error) {
+        console.error("Failed to refresh CPA dashboard", error);
+        setRefreshStatus("Auto refresh failed, retrying...", true);
+      } finally {
+        refreshInFlight = false;
+      }
+    }
+
+    window.addEventListener("load", function() {
+      refreshDashboard();
+      window.setInterval(refreshDashboard, REFRESH_MS);
+    });
+  </script>
 </body>
 </html>
