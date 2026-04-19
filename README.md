@@ -2,12 +2,12 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-04-19T13:03:50+08:00`
+Last updated: `2026-04-19T13:18:50+08:00`
 
 | Credential | Plan | Status | 5h Remaining | 5h Reset | Weekly Remaining | Weekly Reset |
 |---|---:|---|---:|---:|---:|---:|
-| codex-73***@qq.com-plus.json | Plus | OK | 100% | 04-19 18:03 | 91% | 04-24 00:52 |
-| codex-xz***@163.com-plus.json | Plus | OK | 100% | 04-19 18:03 | 90% | 04-24 01:27 |
+| codex-73***@qq.com-plus.json | Plus | OK | 100% | 04-19 18:18 | 91% | 04-24 00:52 |
+| codex-xz***@163.com-plus.json | Plus | OK | 100% | 04-19 18:18 | 90% | 04-24 01:27 |
 | codex-pl***@litshopp.com-free.json | - | DISABLED (credential disabled) | - | - | - | - |
 
 This dashboard is generated automatically from the CPA server.
