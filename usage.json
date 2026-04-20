@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T18:11:30+08:00",
+  "generated_at": "2026-04-20T18:26:44+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-20T18:11:20+08:00"
+      "checked_at": "2026-04-20T18:26:38+08:00"
     },
     {
       "file": "codex-to***@zhu.19492029.xyz-plus.json",
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-20T18:11:25+08:00"
+      "checked_at": "2026-04-20T18:26:41+08:00"
     },
     {
       "file": "codex-si***@zhu.19492029.xyz-plus.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-20T18:11:22+08:00"
+      "checked_at": "2026-04-20T18:26:39+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-20T18:11:27+08:00"
+      "checked_at": "2026-04-20T18:26:42+08:00"
     },
     {
       "file": "codex-lu***@zhu.19492029.xyz-plus.json",
@@ -172,13 +172,13 @@
       "five_hour": {
         "used_percent": 2.0,
         "remaining_percent": 98.0,
-        "reset_at": 1776689202,
+        "reset_at": 1776689201,
         "reset_label": "04-20 20:46"
       },
       "weekly": {
         "used_percent": 7.0,
         "remaining_percent": 93.0,
-        "reset_at": 1777186940,
+        "reset_at": 1777186939,
         "reset_label": "04-26 15:02"
       },
       "code_review_five_hour": {
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-20T18:11:14+08:00"
+      "checked_at": "2026-04-20T18:26:35+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-20T18:11:13+08:00"
+      "checked_at": "2026-04-20T18:26:34+08:00"
     },
     {
       "file": "codex-ma***@qin.19492029.xyz-plus.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-20T18:11:17+08:00"
+      "checked_at": "2026-04-20T18:26:36+08:00"
     },
     {
       "file": "codex-pl***@litshopp.com-free.json",
@@ -312,7 +312,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-20T18:11:19+08:00"
+      "checked_at": "2026-04-20T18:26:37+08:00"
     },
     {
       "file": "codex-po***@zhu.19492029.xyz-plus.json",
@@ -351,7 +351,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-20T18:11:19+08:00"
+      "checked_at": "2026-04-20T18:26:37+08:00"
     }
   ]
 }
