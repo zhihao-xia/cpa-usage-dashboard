@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T07:49:45+08:00",
+  "generated_at": "2026-04-21T08:04:54+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -16,14 +16,14 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1776746977,
-        "reset_label": "04-21 12:49"
+        "reset_at": 1776747887,
+        "reset_label": "04-21 13:04"
       },
       "weekly": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777333777,
-        "reset_label": "04-28 07:49"
+        "reset_at": 1777334687,
+        "reset_label": "04-28 08:04"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-21T07:49:34+08:00"
+      "checked_at": "2026-04-21T08:04:46+08:00"
     },
     {
       "file": "codex-lu***@zhu.19492029.xyz-plus.json",
@@ -55,14 +55,14 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1776746979,
-        "reset_label": "04-21 12:49"
+        "reset_at": 1776747888,
+        "reset_label": "04-21 13:04"
       },
       "weekly": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777333779,
-        "reset_label": "04-28 07:49"
+        "reset_at": 1777334688,
+        "reset_label": "04-28 08:04"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-21T07:49:37+08:00"
+      "checked_at": "2026-04-21T08:04:48+08:00"
     },
     {
       "file": "codex-ma***@qin.19492029.xyz-plus.json",
@@ -94,14 +94,14 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1776746980,
-        "reset_label": "04-21 12:49"
+        "reset_at": 1776747889,
+        "reset_label": "04-21 13:04"
       },
       "weekly": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777333780,
-        "reset_label": "04-28 07:49"
+        "reset_at": 1777334689,
+        "reset_label": "04-28 08:04"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-21T07:49:39+08:00"
+      "checked_at": "2026-04-21T08:04:48+08:00"
     },
     {
       "file": "codex-qe***@zhu.19492029.xyz-plus.json",
@@ -133,14 +133,14 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1776746981,
-        "reset_label": "04-21 12:49"
+        "reset_at": 1776747891,
+        "reset_label": "04-21 13:04"
       },
       "weekly": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777333781,
-        "reset_label": "04-28 07:49"
+        "reset_at": 1777334691,
+        "reset_label": "04-28 08:04"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-21T07:49:40+08:00"
+      "checked_at": "2026-04-21T08:04:50+08:00"
     },
     {
       "file": "codex-si***@zhu.19492029.xyz-plus.json",
@@ -172,14 +172,14 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1776746982,
-        "reset_label": "04-21 12:49"
+        "reset_at": 1776747892,
+        "reset_label": "04-21 13:04"
       },
       "weekly": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777333782,
-        "reset_label": "04-28 07:49"
+        "reset_at": 1777334692,
+        "reset_label": "04-28 08:04"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-21T07:49:41+08:00"
+      "checked_at": "2026-04-21T08:04:51+08:00"
     },
     {
       "file": "codex-to***@zhu.19492029.xyz-plus.json",
@@ -211,14 +211,14 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1776746983,
-        "reset_label": "04-21 12:49"
+        "reset_at": 1776747893,
+        "reset_label": "04-21 13:04"
       },
       "weekly": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777333783,
-        "reset_label": "04-28 07:49"
+        "reset_at": 1777334693,
+        "reset_label": "04-28 08:04"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-21T07:49:43+08:00"
+      "checked_at": "2026-04-21T08:04:52+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -250,14 +250,14 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1776746985,
-        "reset_label": "04-21 12:49"
+        "reset_at": 1776747894,
+        "reset_label": "04-21 13:04"
       },
       "weekly": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777333785,
-        "reset_label": "04-28 07:49"
+        "reset_at": 1777334694,
+        "reset_label": "04-28 08:04"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-21T07:49:43+08:00"
+      "checked_at": "2026-04-21T08:04:53+08:00"
     },
     {
       "file": "codex-pl***@litshopp.com-free.json",
@@ -312,7 +312,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-21T07:49:40+08:00"
+      "checked_at": "2026-04-21T08:04:49+08:00"
     },
     {
       "file": "codex-po***@zhu.19492029.xyz-plus.json",
@@ -351,7 +351,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-21T07:49:40+08:00"
+      "checked_at": "2026-04-21T08:04:49+08:00"
     }
   ]
 }
