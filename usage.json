@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T03:27:12+08:00",
+  "generated_at": "2026-04-26T03:42:09+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -16,8 +16,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777163232,
-        "reset_label": "04-26 08:27"
+        "reset_at": 1777164128,
+        "reset_label": "04-26 08:42"
       },
       "weekly": {
         "used_percent": 33.0,
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-26T03:27:11+08:00"
+      "checked_at": "2026-04-26T03:42:07+08:00"
     },
     {
       "file": "codex-lu***@zhu.19492029.xyz-plus.json",
@@ -55,8 +55,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777163226,
-        "reset_label": "04-26 08:27"
+        "reset_at": 1777164124,
+        "reset_label": "04-26 08:42"
       },
       "weekly": {
         "used_percent": 36.0,
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-26T03:27:04+08:00"
+      "checked_at": "2026-04-26T03:42:03+08:00"
     },
     {
       "file": "codex-to***@zhu.19492029.xyz-plus.json",
@@ -94,8 +94,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777163231,
-        "reset_label": "04-26 08:27"
+        "reset_at": 1777164127,
+        "reset_label": "04-26 08:42"
       },
       "weekly": {
         "used_percent": 36.0,
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-26T03:27:09+08:00"
+      "checked_at": "2026-04-26T03:42:06+08:00"
     },
     {
       "file": "codex-si***@zhu.19492029.xyz-plus.json",
@@ -133,8 +133,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777163229,
-        "reset_label": "04-26 08:27"
+        "reset_at": 1777164126,
+        "reset_label": "04-26 08:42"
       },
       "weekly": {
         "used_percent": 37.0,
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-26T03:27:08+08:00"
+      "checked_at": "2026-04-26T03:42:05+08:00"
     },
     {
       "file": "codex-qe***@zhu.19492029.xyz-plus.json",
@@ -172,8 +172,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777163228,
-        "reset_label": "04-26 08:27"
+        "reset_at": 1777164125,
+        "reset_label": "04-26 08:42"
       },
       "weekly": {
         "used_percent": 38.0,
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-26T03:27:06+08:00"
+      "checked_at": "2026-04-26T03:42:04+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -211,8 +211,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777163224,
-        "reset_label": "04-26 08:27"
+        "reset_at": 1777164123,
+        "reset_label": "04-26 08:42"
       },
       "weekly": {
         "used_percent": 39.0,
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-26T03:27:01+08:00"
+      "checked_at": "2026-04-26T03:42:02+08:00"
     },
     {
       "file": "codex-ma***@qin.19492029.xyz-plus.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-26T03:27:06+08:00"
+      "checked_at": "2026-04-26T03:42:04+08:00"
     },
     {
       "file": "codex-pl***@litshopp.com-free.json",
@@ -312,7 +312,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-26T03:27:06+08:00"
+      "checked_at": "2026-04-26T03:42:04+08:00"
     },
     {
       "file": "codex-po***@zhu.19492029.xyz-plus.json",
@@ -351,7 +351,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-26T03:27:06+08:00"
+      "checked_at": "2026-04-26T03:42:04+08:00"
     }
   ]
 }
