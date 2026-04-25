@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-04-25T21:38:22+08:00",
+  "generated_at": "2026-04-25T21:53:24+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
+    {
+      "file": "codex-73***@qq.com-plus.json",
+      "email": "73***@qq.com",
+      "account": "1b44ee47...",
+      "type": "codex",
+      "disabled": false,
+      "token_expired_at": "2026-05-02T15:54:12+08:00",
+      "status": "ok",
+      "plan": "Plus",
+      "allowed": true,
+      "limit_reached": false,
+      "five_hour": {
+        "used_percent": 0.0,
+        "remaining_percent": 100,
+        "reset_at": 1777143198,
+        "reset_label": "04-26 02:53"
+      },
+      "weekly": {
+        "used_percent": 36.0,
+        "remaining_percent": 64.0,
+        "reset_at": 1777424375,
+        "reset_label": "04-29 08:59"
+      },
+      "code_review_five_hour": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "code_review_weekly": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "additional": [],
+      "error": "",
+      "checked_at": "2026-04-25T21:53:17+08:00"
+    },
     {
       "file": "codex-si***@zhu.19492029.xyz-plus.json",
       "email": "si***@zhu.19492029.xyz",
@@ -14,8 +53,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 6.0,
-        "remaining_percent": 94.0,
+        "used_percent": 7.0,
+        "remaining_percent": 93.0,
         "reset_at": 1777138784,
         "reset_label": "04-26 01:39"
       },
@@ -39,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-25T21:38:19+08:00"
+      "checked_at": "2026-04-25T21:53:21+08:00"
     },
     {
       "file": "codex-qe***@zhu.19492029.xyz-plus.json",
@@ -55,7 +94,7 @@
       "five_hour": {
         "used_percent": 7.0,
         "remaining_percent": 93.0,
-        "reset_at": 1777138928,
+        "reset_at": 1777138929,
         "reset_label": "04-26 01:42"
       },
       "weekly": {
@@ -78,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-25T21:38:18+08:00"
+      "checked_at": "2026-04-25T21:53:19+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -117,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-25T21:38:21+08:00"
+      "checked_at": "2026-04-25T21:53:23+08:00"
     },
     {
       "file": "codex-to***@zhu.19492029.xyz-plus.json",
@@ -156,46 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-25T21:38:20+08:00"
-    },
-    {
-      "file": "codex-73***@qq.com-plus.json",
-      "email": "73***@qq.com",
-      "account": "1b44ee47...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-02T15:54:12+08:00",
-      "status": "ok",
-      "plan": "Plus",
-      "allowed": true,
-      "limit_reached": false,
-      "five_hour": {
-        "used_percent": 9.0,
-        "remaining_percent": 91.0,
-        "reset_at": 1777124616,
-        "reset_label": "04-25 21:43"
-      },
-      "weekly": {
-        "used_percent": 35.0,
-        "remaining_percent": 65.0,
-        "reset_at": 1777424375,
-        "reset_label": "04-29 08:59"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "",
-      "checked_at": "2026-04-25T21:38:16+08:00"
+      "checked_at": "2026-04-25T21:53:22+08:00"
     },
     {
       "file": "codex-lu***@zhu.19492029.xyz-plus.json",
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-25T21:38:17+08:00"
+      "checked_at": "2026-04-25T21:53:18+08:00"
     },
     {
       "file": "codex-ma***@qin.19492029.xyz-plus.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-25T21:38:18+08:00"
+      "checked_at": "2026-04-25T21:53:19+08:00"
     },
     {
       "file": "codex-pl***@litshopp.com-free.json",
@@ -312,7 +312,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-25T21:38:18+08:00"
+      "checked_at": "2026-04-25T21:53:19+08:00"
     },
     {
       "file": "codex-po***@zhu.19492029.xyz-plus.json",
@@ -351,7 +351,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-25T21:38:18+08:00"
+      "checked_at": "2026-04-25T21:53:19+08:00"
     }
   ]
 }
