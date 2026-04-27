@@ -2,16 +2,16 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-04-27T15:22:56+08:00`
+Last updated: `2026-04-27T15:38:30+08:00`
 
 | Credential | Plan | Status | 5h Remaining | 5h Reset | Weekly Remaining | Weekly Reset |
 |---|---:|---|---:|---:|---:|---:|
-| codex-xz***@163.com-plus.json | Plus | OK | 97% | 04-27 19:17 | 58% | 04-29 09:01 |
-| codex-to***@zhu.19492029.xyz-plus.json | Plus | OK | 96% | 04-27 19:17 | 56% | 04-29 09:01 |
-| codex-lu***@zhu.19492029.xyz-plus.json | Plus | OK | 96% | 04-27 19:18 | 55% | 04-29 08:59 |
-| codex-si***@zhu.19492029.xyz-plus.json | Plus | OK | 82% | 04-27 17:07 | 54% | 04-29 09:01 |
-| codex-qe***@zhu.19492029.xyz-plus.json | Plus | OK | 80% | 04-27 16:56 | 54% | 04-29 09:00 |
-| codex-73***@qq.com-plus.json | Plus | OK | 75% | 04-27 16:55 | 51% | 04-29 08:59 |
+| codex-xz***@163.com-plus.json | Plus | OK | 95% | 04-27 19:17 | 57% | 04-29 09:01 |
+| codex-to***@zhu.19492029.xyz-plus.json | Plus | OK | 94% | 04-27 19:17 | 55% | 04-29 09:01 |
+| codex-lu***@zhu.19492029.xyz-plus.json | Plus | OK | 92% | 04-27 19:18 | 54% | 04-29 08:59 |
+| codex-si***@zhu.19492029.xyz-plus.json | Plus | OK | 80% | 04-27 17:07 | 54% | 04-29 09:01 |
+| codex-qe***@zhu.19492029.xyz-plus.json | Plus | OK | 76% | 04-27 16:56 | 53% | 04-29 09:00 |
+| codex-73***@qq.com-plus.json | Plus | OK | 73% | 04-27 16:55 | 50% | 04-29 08:59 |
 | codex-ma***@qin.19492029.xyz-plus.json | - | DISABLED (credential disabled) | - | - | - | - |
 | codex-pl***@litshopp.com-free.json | - | DISABLED (credential disabled) | - | - | - | - |
 | codex-po***@zhu.19492029.xyz-plus.json | - | DISABLED (credential disabled) | - | - | - | - |
