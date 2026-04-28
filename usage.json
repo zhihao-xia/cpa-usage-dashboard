@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T20:40:19+08:00",
+  "generated_at": "2026-04-28T20:55:19+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -14,14 +14,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 13.0,
-        "remaining_percent": 87.0,
+        "used_percent": 16.0,
+        "remaining_percent": 84.0,
         "reset_at": 1777394251,
         "reset_label": "04-29 00:37"
       },
       "weekly": {
-        "used_percent": 9.0,
-        "remaining_percent": 91.0,
+        "used_percent": 10.0,
+        "remaining_percent": 90.0,
         "reset_at": 1777963005,
         "reset_label": "05-05 14:36"
       },
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T20:40:10+08:00"
+      "checked_at": "2026-04-28T20:55:11+08:00"
     },
     {
       "file": "codex-099335eb-xz***@163.com-team.json",
@@ -53,14 +53,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 15.0,
-        "remaining_percent": 85.0,
+        "used_percent": 18.0,
+        "remaining_percent": 82.0,
         "reset_at": 1777394459,
         "reset_label": "04-29 00:40"
       },
       "weekly": {
-        "used_percent": 8.0,
-        "remaining_percent": 92.0,
+        "used_percent": 9.0,
+        "remaining_percent": 91.0,
         "reset_at": 1777963164,
         "reset_label": "05-05 14:39"
       },
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T20:40:09+08:00"
+      "checked_at": "2026-04-28T20:55:10+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -92,14 +92,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 15.0,
-        "remaining_percent": 85.0,
+        "used_percent": 18.0,
+        "remaining_percent": 82.0,
         "reset_at": 1777390563,
         "reset_label": "04-28 23:36"
       },
       "weekly": {
-        "used_percent": 9.0,
-        "remaining_percent": 91.0,
+        "used_percent": 10.0,
+        "remaining_percent": 90.0,
         "reset_at": 1777959025,
         "reset_label": "05-05 13:30"
       },
@@ -117,46 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T20:40:13+08:00"
-    },
-    {
-      "file": "codex-d1fc86a8-73***@qq.com-team.json",
-      "email": "73***@qq.com",
-      "account": "ab553a93...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-08T14:13:59+08:00",
-      "status": "ok",
-      "plan": "Team",
-      "allowed": true,
-      "limit_reached": false,
-      "five_hour": {
-        "used_percent": 17.0,
-        "remaining_percent": 83.0,
-        "reset_at": 1777394351,
-        "reset_label": "04-29 00:39"
-      },
-      "weekly": {
-        "used_percent": 9.0,
-        "remaining_percent": 91.0,
-        "reset_at": 1777963050,
-        "reset_label": "05-05 14:37"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "",
-      "checked_at": "2026-04-28T20:40:14+08:00"
+      "checked_at": "2026-04-28T20:55:13+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -170,9 +131,9 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 17.0,
-        "remaining_percent": 83.0,
-        "reset_at": 1777393438,
+        "used_percent": 20.0,
+        "remaining_percent": 80.0,
+        "reset_at": 1777393439,
         "reset_label": "04-29 00:23"
       },
       "weekly": {
@@ -195,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T20:40:18+08:00"
+      "checked_at": "2026-04-28T20:55:18+08:00"
     },
     {
       "file": "codex-facd987f-73***@qq.com-team.json",
@@ -209,15 +170,15 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 18.0,
-        "remaining_percent": 82.0,
+        "used_percent": 22.0,
+        "remaining_percent": 78.0,
         "reset_at": 1777394307,
         "reset_label": "04-29 00:38"
       },
       "weekly": {
-        "used_percent": 8.0,
-        "remaining_percent": 92.0,
-        "reset_at": 1777963098,
+        "used_percent": 9.0,
+        "remaining_percent": 91.0,
+        "reset_at": 1777963099,
         "reset_label": "05-05 14:38"
       },
       "code_review_five_hour": {
@@ -234,7 +195,46 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T20:40:16+08:00"
+      "checked_at": "2026-04-28T20:55:16+08:00"
+    },
+    {
+      "file": "codex-d1fc86a8-73***@qq.com-team.json",
+      "email": "73***@qq.com",
+      "account": "ab553a93...",
+      "type": "codex",
+      "disabled": false,
+      "token_expired_at": "2026-05-08T14:13:59+08:00",
+      "status": "ok",
+      "plan": "Team",
+      "allowed": true,
+      "limit_reached": false,
+      "five_hour": {
+        "used_percent": 27.0,
+        "remaining_percent": 73.0,
+        "reset_at": 1777394351,
+        "reset_label": "04-29 00:39"
+      },
+      "weekly": {
+        "used_percent": 10.0,
+        "remaining_percent": 90.0,
+        "reset_at": 1777963051,
+        "reset_label": "05-05 14:37"
+      },
+      "code_review_five_hour": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "code_review_weekly": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "additional": [],
+      "error": "",
+      "checked_at": "2026-04-28T20:55:14+08:00"
     }
   ]
 }
