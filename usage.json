@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T01:45:48+08:00",
+  "generated_at": "2026-04-29T02:01:13+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T01:45:46+08:00"
+      "checked_at": "2026-04-29T02:01:10+08:00"
     },
     {
       "file": "codex-d1fc86a8-73***@qq.com-team.json",
@@ -61,7 +61,7 @@
       "weekly": {
         "used_percent": 20.0,
         "remaining_percent": 80.0,
-        "reset_at": 1777963050,
+        "reset_at": 1777963051,
         "reset_label": "05-05 14:37"
       },
       "code_review_five_hour": {
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T01:45:45+08:00"
+      "checked_at": "2026-04-29T02:01:08+08:00"
     },
     {
       "file": "codex-099335eb-xz***@163.com-team.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T01:45:39+08:00"
+      "checked_at": "2026-04-29T02:01:01+08:00"
     },
     {
       "file": "codex-10ffcdf1-xz***@163.com-team.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T01:45:41+08:00"
+      "checked_at": "2026-04-29T02:01:03+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -178,7 +178,7 @@
       "weekly": {
         "used_percent": 16.0,
         "remaining_percent": 84.0,
-        "reset_at": 1777959044,
+        "reset_at": 1777959045,
         "reset_label": "05-05 13:30"
       },
       "code_review_five_hour": {
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T01:45:47+08:00"
+      "checked_at": "2026-04-29T02:01:12+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -211,7 +211,7 @@
       "five_hour": {
         "used_percent": 17.0,
         "remaining_percent": 83.0,
-        "reset_at": 1777408611,
+        "reset_at": 1777408612,
         "reset_label": "04-29 04:36"
       },
       "weekly": {
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T01:45:43+08:00"
+      "checked_at": "2026-04-29T02:01:06+08:00"
     }
   ]
 }
