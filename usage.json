@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T23:12:33+08:00",
+  "generated_at": "2026-04-28T23:27:52+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T23:12:27+08:00"
+      "checked_at": "2026-04-28T23:27:44+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -55,13 +55,13 @@
       "five_hour": {
         "used_percent": 41.0,
         "remaining_percent": 59.0,
-        "reset_at": 1777393438,
+        "reset_at": 1777393439,
         "reset_label": "04-29 00:23"
       },
       "weekly": {
         "used_percent": 13.0,
         "remaining_percent": 87.0,
-        "reset_at": 1777959044,
+        "reset_at": 1777959045,
         "reset_label": "05-05 13:30"
       },
       "code_review_five_hour": {
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T23:12:32+08:00"
+      "checked_at": "2026-04-28T23:27:50+08:00"
     },
     {
       "file": "codex-099335eb-xz***@163.com-team.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T23:12:24+08:00"
+      "checked_at": "2026-04-28T23:27:39+08:00"
     },
     {
       "file": "codex-10ffcdf1-xz***@163.com-team.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T23:12:25+08:00"
+      "checked_at": "2026-04-28T23:27:42+08:00"
     },
     {
       "file": "codex-facd987f-73***@qq.com-team.json",
@@ -178,7 +178,7 @@
       "weekly": {
         "used_percent": 12.0,
         "remaining_percent": 88.0,
-        "reset_at": 1777963098,
+        "reset_at": 1777963099,
         "reset_label": "05-05 14:38"
       },
       "code_review_five_hour": {
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T23:12:30+08:00"
+      "checked_at": "2026-04-28T23:27:48+08:00"
     },
     {
       "file": "codex-d1fc86a8-73***@qq.com-team.json",
@@ -217,7 +217,7 @@
       "weekly": {
         "used_percent": 14.0,
         "remaining_percent": 86.0,
-        "reset_at": 1777963050,
+        "reset_at": 1777963051,
         "reset_label": "05-05 14:37"
       },
       "code_review_five_hour": {
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T23:12:29+08:00"
+      "checked_at": "2026-04-28T23:27:45+08:00"
     }
   ]
 }
