@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T15:33:10+08:00",
+  "generated_at": "2026-04-28T15:35:18+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T15:33:02+08:00"
+      "checked_at": "2026-04-28T15:35:12+08:00"
     },
     {
       "file": "codex-d1fc86a8-73***@qq.com-team.json",
@@ -53,15 +53,15 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 5.0,
-        "remaining_percent": 95.0,
-        "reset_at": 1777376251,
+        "used_percent": 6.0,
+        "remaining_percent": 94.0,
+        "reset_at": 1777376250,
         "reset_label": "04-28 19:37"
       },
       "weekly": {
         "used_percent": 1.0,
         "remaining_percent": 99.0,
-        "reset_at": 1777963051,
+        "reset_at": 1777963050,
         "reset_label": "05-05 14:37"
       },
       "code_review_five_hour": {
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T15:33:06+08:00"
+      "checked_at": "2026-04-28T15:35:15+08:00"
     },
     {
       "file": "codex-facd987f-73***@qq.com-team.json",
@@ -92,8 +92,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 5.0,
-        "remaining_percent": 95.0,
+        "used_percent": 6.0,
+        "remaining_percent": 94.0,
         "reset_at": 1777376298,
         "reset_label": "04-28 19:38"
       },
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T15:33:08+08:00"
+      "checked_at": "2026-04-28T15:35:16+08:00"
     },
     {
       "file": "codex-10ffcdf1-xz***@163.com-team.json",
@@ -131,15 +131,15 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 9.0,
-        "remaining_percent": 91.0,
-        "reset_at": 1777376206,
+        "used_percent": 10.0,
+        "remaining_percent": 90.0,
+        "reset_at": 1777376205,
         "reset_label": "04-28 19:36"
       },
       "weekly": {
-        "used_percent": 1.0,
-        "remaining_percent": 99.0,
-        "reset_at": 1777963006,
+        "used_percent": 2.0,
+        "remaining_percent": 98.0,
+        "reset_at": 1777963005,
         "reset_label": "05-05 14:36"
       },
       "code_review_five_hour": {
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T15:33:03+08:00"
+      "checked_at": "2026-04-28T15:35:13+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T15:33:05+08:00"
+      "checked_at": "2026-04-28T15:35:14+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T15:33:09+08:00"
+      "checked_at": "2026-04-28T15:35:17+08:00"
     }
   ]
 }
