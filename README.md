@@ -2,12 +2,12 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-04-28T11:08:55+08:00`
+Last updated: `2026-04-28T11:39:02+08:00`
 
 | Credential | Plan | Status | 5h Remaining | 5h Reset | Weekly Remaining | Weekly Reset |
 |---|---:|---|---:|---:|---:|---:|
-| codex-73***@qq.com-plus.json | Plus | OK | 74% | 04-28 13:12 | 41% | 04-29 08:59 |
-| codex-xz***@163.com-plus.json | Plus | OK | 70% | 04-28 13:13 | 47% | 04-29 09:01 |
+| codex-73***@qq.com-plus.json | Plus | OK | 54% | 04-28 13:12 | 38% | 04-29 08:59 |
+| codex-xz***@163.com-plus.json | Plus | OK | 51% | 04-28 13:13 | 44% | 04-29 09:01 |
 | codex-lu***@zhu.19492029.xyz-plus.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - |
 | codex-ma***@qin.19492029.xyz-plus.json | - | DISABLED (credential disabled) | - | - | - | - |
 | codex-pl***@litshopp.com-free.json | - | DISABLED (credential disabled) | - | - | - | - |
