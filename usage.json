@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T14:11:28+08:00",
+  "generated_at": "2026-04-28T14:26:44+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -16,13 +16,13 @@
       "five_hour": {
         "used_percent": 21.0,
         "remaining_percent": 79.0,
-        "reset_at": 1777372244,
+        "reset_at": 1777372246,
         "reset_label": "04-28 18:30"
       },
       "weekly": {
         "used_percent": 3.0,
         "remaining_percent": 97.0,
-        "reset_at": 1777959044,
+        "reset_at": 1777959046,
         "reset_label": "05-05 13:30"
       },
       "code_review_five_hour": {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T14:11:26+08:00"
+      "checked_at": "2026-04-28T14:26:41+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T14:11:24+08:00"
+      "checked_at": "2026-04-28T14:26:33+08:00"
     },
     {
       "file": "codex-lu***@zhu.19492029.xyz-plus.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-28T14:11:25+08:00"
+      "checked_at": "2026-04-28T14:26:40+08:00"
     },
     {
       "file": "codex-ma***@qin.19492029.xyz-plus.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-28T14:11:25+08:00"
+      "checked_at": "2026-04-28T14:26:40+08:00"
     },
     {
       "file": "codex-pl***@litshopp.com-free.json",
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-28T14:11:25+08:00"
+      "checked_at": "2026-04-28T14:26:40+08:00"
     },
     {
       "file": "codex-po***@zhu.19492029.xyz-plus.json",
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-28T14:11:25+08:00"
+      "checked_at": "2026-04-28T14:26:40+08:00"
     },
     {
       "file": "codex-qe***@zhu.19492029.xyz-plus.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-28T14:11:25+08:00"
+      "checked_at": "2026-04-28T14:26:40+08:00"
     },
     {
       "file": "codex-si***@zhu.19492029.xyz-plus.json",
@@ -312,7 +312,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-28T14:11:26+08:00"
+      "checked_at": "2026-04-28T14:26:41+08:00"
     },
     {
       "file": "codex-to***@zhu.19492029.xyz-plus.json",
@@ -351,7 +351,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-28T14:11:26+08:00"
+      "checked_at": "2026-04-28T14:26:41+08:00"
     }
   ]
 }
