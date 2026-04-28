@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T11:39:02+08:00",
+  "generated_at": "2026-04-28T11:54:07+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -14,14 +14,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 46.0,
-        "remaining_percent": 54.0,
+        "used_percent": 52.0,
+        "remaining_percent": 48.0,
         "reset_at": 1777353146,
         "reset_label": "04-28 13:12"
       },
       "weekly": {
-        "used_percent": 62.0,
-        "remaining_percent": 38.0,
+        "used_percent": 63.0,
+        "remaining_percent": 37.0,
         "reset_at": 1777424375,
         "reset_label": "04-29 08:59"
       },
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T11:38:58+08:00"
+      "checked_at": "2026-04-28T11:54:03+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -53,8 +53,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 49.0,
-        "remaining_percent": 51.0,
+        "used_percent": 54.0,
+        "remaining_percent": 46.0,
         "reset_at": 1777353222,
         "reset_label": "04-28 13:13"
       },
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-28T11:39:00+08:00"
+      "checked_at": "2026-04-28T11:54:06+08:00"
     },
     {
       "file": "codex-lu***@zhu.19492029.xyz-plus.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-28T11:38:59+08:00"
+      "checked_at": "2026-04-28T11:54:04+08:00"
     },
     {
       "file": "codex-ma***@qin.19492029.xyz-plus.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-28T11:38:59+08:00"
+      "checked_at": "2026-04-28T11:54:04+08:00"
     },
     {
       "file": "codex-pl***@litshopp.com-free.json",
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-28T11:38:59+08:00"
+      "checked_at": "2026-04-28T11:54:04+08:00"
     },
     {
       "file": "codex-po***@zhu.19492029.xyz-plus.json",
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-04-28T11:38:59+08:00"
+      "checked_at": "2026-04-28T11:54:04+08:00"
     },
     {
       "file": "codex-qe***@zhu.19492029.xyz-plus.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-28T11:38:59+08:00"
+      "checked_at": "2026-04-28T11:54:05+08:00"
     },
     {
       "file": "codex-si***@zhu.19492029.xyz-plus.json",
@@ -312,7 +312,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-28T11:38:59+08:00"
+      "checked_at": "2026-04-28T11:54:05+08:00"
     },
     {
       "file": "codex-to***@zhu.19492029.xyz-plus.json",
@@ -351,7 +351,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-28T11:39:00+08:00"
+      "checked_at": "2026-04-28T11:54:05+08:00"
     }
   ]
 }
