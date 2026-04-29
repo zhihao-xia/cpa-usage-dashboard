@@ -2,13 +2,13 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-04-29T17:59:55+08:00`
+Last updated: `2026-04-29T18:15:00+08:00`
 
 | Credential | Plan | Status | 5h Remaining | 5h Reset | Weekly Remaining | Weekly Reset |
 |---|---:|---|---:|---:|---:|---:|
 | codex-xz***@163.com-plus.json | Plus | OK | 100% | 04-29 21:15 | 79% | 05-05 13:30 |
-| ro***@hotmail.com.json | Plus | OK | 98% | 04-29 19:10 | 100% | 05-06 14:10 |
 | ad***@hotmail.com.json | Plus | OK | 97% | 04-29 18:58 | 100% | 05-06 13:58 |
+| ro***@hotmail.com.json | Plus | OK | 97% | 04-29 19:10 | 100% | 05-06 14:10 |
 | sa***@hotmail.com.json | Plus | OK | 97% | 04-29 19:22 | 100% | 05-06 14:22 |
 | ja***@hotmail.com.json | Plus | OK | 96% | 04-29 19:05 | 99% | 05-06 14:05 |
 | kh***@hotmail.com.json | Plus | OK | 96% | 04-29 19:07 | 99% | 05-06 14:07 |
