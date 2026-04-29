@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T11:39:47+08:00",
+  "generated_at": "2026-04-29T11:55:11+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -14,15 +14,15 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 3.0,
-        "remaining_percent": 97.0,
+        "used_percent": 10.0,
+        "remaining_percent": 90.0,
         "reset_at": 1777449315,
         "reset_label": "04-29 15:55"
       },
       "weekly": {
-        "used_percent": 19.0,
-        "remaining_percent": 81.0,
-        "reset_at": 1777959044,
+        "used_percent": 20.0,
+        "remaining_percent": 80.0,
+        "reset_at": 1777959045,
         "reset_label": "05-05 13:30"
       },
       "code_review_five_hour": {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T11:39:46+08:00"
+      "checked_at": "2026-04-29T11:55:10+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -53,8 +53,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 12.0,
-        "remaining_percent": 88.0,
+        "used_percent": 27.0,
+        "remaining_percent": 73.0,
         "reset_at": 1778027697,
         "reset_label": "05-06 08:34"
       },
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T11:39:41+08:00"
+      "checked_at": "2026-04-29T11:55:06+08:00"
     },
     {
       "file": "codex-099335eb-xz***@163.com-team.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "HTTP 402: {\"detail\":{\"code\":\"deactivated_workspace\"}}",
-      "checked_at": "2026-04-29T11:39:39+08:00"
+      "checked_at": "2026-04-29T11:55:05+08:00"
     },
     {
       "file": "codex-10ffcdf1-xz***@163.com-team.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "HTTP 402: {\"detail\":{\"code\":\"deactivated_workspace\"}}",
-      "checked_at": "2026-04-29T11:39:40+08:00"
+      "checked_at": "2026-04-29T11:55:05+08:00"
     },
     {
       "file": "codex-d1fc86a8-73***@qq.com-team.json",
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "HTTP 402: {\"detail\":{\"code\":\"deactivated_workspace\"}}",
-      "checked_at": "2026-04-29T11:39:44+08:00"
+      "checked_at": "2026-04-29T11:55:09+08:00"
     },
     {
       "file": "codex-facd987f-73***@qq.com-team.json",
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "HTTP 402: {\"detail\":{\"code\":\"deactivated_workspace\"}}",
-      "checked_at": "2026-04-29T11:39:44+08:00"
+      "checked_at": "2026-04-29T11:55:09+08:00"
     }
   ]
 }
