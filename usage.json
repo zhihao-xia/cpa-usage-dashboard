@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T13:11:28+08:00",
+  "generated_at": "2026-04-29T13:26:37+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -14,10 +14,10 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
-        "reset_at": 1777457483,
-        "reset_label": "04-29 18:11"
+        "used_percent": 1.0,
+        "remaining_percent": 99.0,
+        "reset_at": 1777457908,
+        "reset_label": "04-29 18:18"
       },
       "weekly": {
         "used_percent": 16.0,
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T13:11:20+08:00"
+      "checked_at": "2026-04-29T13:26:26+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -53,8 +53,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 13.0,
-        "remaining_percent": 87.0,
+        "used_percent": 14.0,
+        "remaining_percent": 86.0,
         "reset_at": 1777449316,
         "reset_label": "04-29 15:55"
       },
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T13:11:27+08:00"
+      "checked_at": "2026-04-29T13:26:36+08:00"
     },
     {
       "file": "codex-099335eb-xz***@163.com-team.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "HTTP 402: {\"detail\":{\"code\":\"deactivated_workspace\"}}",
-      "checked_at": "2026-04-29T13:11:18+08:00"
+      "checked_at": "2026-04-29T13:26:24+08:00"
     },
     {
       "file": "codex-10ffcdf1-xz***@163.com-team.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "HTTP 402: {\"detail\":{\"code\":\"deactivated_workspace\"}}",
-      "checked_at": "2026-04-29T13:11:19+08:00"
+      "checked_at": "2026-04-29T13:26:25+08:00"
     },
     {
       "file": "codex-d1fc86a8-73***@qq.com-team.json",
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "HTTP 402: {\"detail\":{\"code\":\"deactivated_workspace\"}}",
-      "checked_at": "2026-04-29T13:11:23+08:00"
+      "checked_at": "2026-04-29T13:26:30+08:00"
     },
     {
       "file": "codex-facd987f-73***@qq.com-team.json",
@@ -233,8 +233,8 @@
         "reset_label": "-"
       },
       "additional": [],
-      "error": "HTTP 402: {\"detail\":{\"code\":\"deactivated_workspace\"}}",
-      "checked_at": "2026-04-29T13:11:25+08:00"
+      "error": "HTTP 401: Encountered invalidated oauth token for user, failing request",
+      "checked_at": "2026-04-29T13:26:32+08:00"
     }
   ]
 }
