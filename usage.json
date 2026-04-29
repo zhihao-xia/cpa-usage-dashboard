@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T08:37:58+08:00",
+  "generated_at": "2026-04-29T08:53:34+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -14,15 +14,15 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
+        "used_percent": 1.0,
+        "remaining_percent": 99.0,
         "reset_at": 1777440941,
         "reset_label": "04-29 13:35"
       },
       "weekly": {
-        "used_percent": 15.0,
-        "remaining_percent": 85.0,
-        "reset_at": 1777963099,
+        "used_percent": 16.0,
+        "remaining_percent": 84.0,
+        "reset_at": 1777963098,
         "reset_label": "05-05 14:38"
       },
       "code_review_five_hour": {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T08:37:55+08:00"
+      "checked_at": "2026-04-29T08:53:31+08:00"
     },
     {
       "file": "codex-099335eb-xz***@163.com-team.json",
@@ -53,14 +53,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
+        "used_percent": 2.0,
+        "remaining_percent": 98.0,
         "reset_at": 1777440816,
         "reset_label": "04-29 13:33"
       },
       "weekly": {
-        "used_percent": 16.0,
-        "remaining_percent": 84.0,
+        "used_percent": 17.0,
+        "remaining_percent": 83.0,
         "reset_at": 1777963164,
         "reset_label": "05-05 14:39"
       },
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T08:37:48+08:00"
+      "checked_at": "2026-04-29T08:53:20+08:00"
     },
     {
       "file": "codex-10ffcdf1-xz***@163.com-team.json",
@@ -92,14 +92,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
+        "used_percent": 2.0,
+        "remaining_percent": 98.0,
         "reset_at": 1777440843,
         "reset_label": "04-29 13:34"
       },
       "weekly": {
-        "used_percent": 17.0,
-        "remaining_percent": 83.0,
+        "used_percent": 18.0,
+        "remaining_percent": 82.0,
         "reset_at": 1777963005,
         "reset_label": "05-05 14:36"
       },
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T08:37:50+08:00"
+      "checked_at": "2026-04-29T08:53:22+08:00"
     },
     {
       "file": "codex-d1fc86a8-73***@qq.com-team.json",
@@ -131,8 +131,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
+        "used_percent": 2.0,
+        "remaining_percent": 98.0,
         "reset_at": 1777440919,
         "reset_label": "04-29 13:35"
       },
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T08:37:53+08:00"
+      "checked_at": "2026-04-29T08:53:29+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -170,9 +170,9 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
-        "reset_at": 1778027696,
+        "used_percent": 2.0,
+        "remaining_percent": 98.0,
+        "reset_at": 1778027699,
         "reset_label": "05-06 08:34"
       },
       "weekly": {
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T08:37:51+08:00"
+      "checked_at": "2026-04-29T08:53:24+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -209,8 +209,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 4.0,
-        "remaining_percent": 96.0,
+        "used_percent": 5.0,
+        "remaining_percent": 95.0,
         "reset_at": 1777431269,
         "reset_label": "04-29 10:54"
       },
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-29T08:37:57+08:00"
+      "checked_at": "2026-04-29T08:53:33+08:00"
     }
   ]
 }
