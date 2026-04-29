@@ -2,7 +2,7 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-04-29T16:28:51+08:00`
+Last updated: `2026-04-29T16:43:56+08:00`
 
 | Credential | Plan | Status | 5h Remaining | 5h Reset | Weekly Remaining | Weekly Reset |
 |---|---:|---|---:|---:|---:|---:|
@@ -17,7 +17,7 @@ Last updated: `2026-04-29T16:28:51+08:00`
 | qi***@hotmail.com.json | Plus | OK | 96% | 04-29 19:09 | 99% | 05-06 14:09 |
 | ry***@hotmail.com.json | Plus | OK | 96% | 04-29 19:11 | 99% | 05-06 14:11 |
 | sp***@hotmail.com.json | Plus | OK | 96% | 04-29 19:26 | 99% | 05-06 14:26 |
-| codex-73***@qq.com-plus.json | Plus | OK | 96% | 04-29 18:18 | 84% | 05-05 13:30 |
+| codex-73***@qq.com-plus.json | Plus | OK | 95% | 04-29 18:18 | 84% | 05-05 13:30 |
 
 This dashboard is generated automatically from the CPA server.
 Only masked quota summaries are published. Tokens and auth JSON files are not committed.
