@@ -2,7 +2,7 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-04-30T20:10:36+08:00`
+Last updated: `2026-04-30T20:25:47+08:00`
 
 To permanently delete an unusable account, edit that row's last `Delete` cell from `[ ]` to `[x]` and commit the README change. Keep the hidden `CPA_DELETE_FILE` comment in that cell unchanged.
 
@@ -10,7 +10,7 @@ To permanently delete an unusable account, edit that row's last `Delete` cell fr
 |---|---:|---|---:|---:|---:|---:|:---:|
 | ky***@hotmail.com.json | Plus | OK | 99% | 04-30 20:54 | 80% | 05-06 14:08 | [ ] <!-- CPA_DELETE_FILE:kylecorreaguoe@hotmail.com.json --> |
 | codex-xz***@163.com-plus.json | Plus | OK | 86% | 04-30 22:49 | 57% | 05-05 13:30 | [ ] <!-- CPA_DELETE_FILE:codex-xzzhhh@163.com-plus.json --> |
-| ry***@hotmail.com.json | Plus | OK | 69% | 04-30 20:32 | 75% | 05-06 14:11 | [ ] <!-- CPA_DELETE_FILE:ryanvargaswaln@hotmail.com.json --> |
+| ry***@hotmail.com.json | Plus | OK | 60% | 04-30 20:32 | 74% | 05-06 14:11 | [ ] <!-- CPA_DELETE_FILE:ryanvargaswaln@hotmail.com.json --> |
 | re***@hotmail.com.json | Plus | OK | 0% | 04-30 23:36 | 65% | 05-06 14:10 | [ ] <!-- CPA_DELETE_FILE:rexfarrellvrao@hotmail.com.json --> |
 | ro***@hotmail.com.json | Plus | OK | 0% | 04-30 20:30 | 65% | 05-06 14:10 | [ ] <!-- CPA_DELETE_FILE:rorynelsonxakj@hotmail.com.json --> |
 | kh***@hotmail.com.json | Plus | OK | 0% | 04-30 22:08 | 55% | 05-06 14:07 | [ ] <!-- CPA_DELETE_FILE:khazaventuradlau@hotmail.com.json --> |
