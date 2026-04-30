@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T08:39:32+08:00",
+  "generated_at": "2026-04-30T08:54:36+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T08:39:25+08:00"
+      "checked_at": "2026-04-30T08:54:28+08:00"
     },
     {
       "file": "re***@hotmail.com.json",
@@ -61,7 +61,7 @@
       "weekly": {
         "used_percent": 16.0,
         "remaining_percent": 84.0,
-        "reset_at": 1778047803,
+        "reset_at": 1778047802,
         "reset_label": "05-06 14:10"
       },
       "code_review_five_hour": {
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T08:39:27+08:00"
+      "checked_at": "2026-04-30T08:54:31+08:00"
     },
     {
       "file": "ro***@hotmail.com.json",
@@ -94,13 +94,13 @@
       "five_hour": {
         "used_percent": 99.0,
         "remaining_percent": 1.0,
-        "reset_at": 1777515273,
+        "reset_at": 1777515272,
         "reset_label": "04-30 10:14"
       },
       "weekly": {
         "used_percent": 16.0,
         "remaining_percent": 84.0,
-        "reset_at": 1778047840,
+        "reset_at": 1778047839,
         "reset_label": "05-06 14:10"
       },
       "code_review_five_hour": {
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T08:39:29+08:00"
+      "checked_at": "2026-04-30T08:54:32+08:00"
     },
     {
       "file": "ry***@hotmail.com.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T08:39:30+08:00"
+      "checked_at": "2026-04-30T08:54:33+08:00"
     },
     {
       "file": "ky***@hotmail.com.json",
@@ -172,7 +172,7 @@
       "five_hour": {
         "used_percent": 100.0,
         "remaining_percent": 0,
-        "reset_at": 1777515254,
+        "reset_at": 1777515253,
         "reset_label": "04-30 10:14"
       },
       "weekly": {
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T08:39:26+08:00"
+      "checked_at": "2026-04-30T08:54:29+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -211,7 +211,7 @@
       "five_hour": {
         "used_percent": 100.0,
         "remaining_percent": 0,
-        "reset_at": 1777515244,
+        "reset_at": 1777515243,
         "reset_label": "04-30 10:14"
       },
       "weekly": {
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T08:39:22+08:00"
+      "checked_at": "2026-04-30T08:54:25+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -256,7 +256,7 @@
       "weekly": {
         "used_percent": 37.0,
         "remaining_percent": 63.0,
-        "reset_at": 1777959045,
+        "reset_at": 1777959044,
         "reset_label": "05-05 13:30"
       },
       "code_review_five_hour": {
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T08:39:23+08:00"
+      "checked_at": "2026-04-30T08:54:27+08:00"
     },
     {
       "file": "ad***@hotmail.com.json",
@@ -312,7 +312,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T08:39:21+08:00"
+      "checked_at": "2026-04-30T08:54:25+08:00"
     },
     {
       "file": "ja***@hotmail.com.json",
@@ -351,7 +351,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T08:39:24+08:00"
+      "checked_at": "2026-04-30T08:54:28+08:00"
     },
     {
       "file": "qi***@hotmail.com.json",
@@ -390,7 +390,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T08:39:27+08:00"
+      "checked_at": "2026-04-30T08:54:31+08:00"
     },
     {
       "file": "sa***@hotmail.com.json",
@@ -429,7 +429,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T08:39:31+08:00"
+      "checked_at": "2026-04-30T08:54:35+08:00"
     },
     {
       "file": "sp***@hotmail.com.json",
@@ -468,7 +468,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T08:39:32+08:00"
+      "checked_at": "2026-04-30T08:54:35+08:00"
     }
   ]
 }
