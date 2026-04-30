@@ -2,7 +2,7 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-05-01T05:30:30+08:00`
+Last updated: `2026-05-01T05:45:43+08:00`
 
 To permanently delete an unusable account, edit that row's last `Delete` cell from `[ ]` to `[x]` and commit the README change. Keep the hidden `CPA_DELETE_FILE` comment in that cell unchanged.
 
@@ -14,7 +14,7 @@ To permanently delete an unusable account, edit that row's last `Delete` cell fr
 | ky***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [ ] <!-- CPA_DELETE_FILE:kylecorreaguoe@hotmail.com.json --> |
 | re***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [ ] <!-- CPA_DELETE_FILE:rexfarrellvrao@hotmail.com.json --> |
 | ro***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [ ] <!-- CPA_DELETE_FILE:rorynelsonxakj@hotmail.com.json --> |
-| ry***@hotmail.com.json | - | ERROR (HTTP 401: Encountered invalidated oauth token for user, failing request) | - | - | - | - | [ ] <!-- CPA_DELETE_FILE:ryanvargaswaln@hotmail.com.json --> |
+| ry***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [ ] <!-- CPA_DELETE_FILE:ryanvargaswaln@hotmail.com.json --> |
 
 This dashboard is generated automatically from the CPA server.
 The generated dashboard table publishes only masked quota summaries.
