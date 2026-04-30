@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T01:14:05+08:00",
+  "generated_at": "2026-05-01T01:29:10+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -22,7 +22,7 @@
       "weekly": {
         "used_percent": 36.0,
         "remaining_percent": 64.0,
-        "reset_at": 1778047802,
+        "reset_at": 1778047803,
         "reset_label": "05-06 14:10"
       },
       "code_review_five_hour": {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T01:14:01+08:00"
+      "checked_at": "2026-05-01T01:29:05+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T01:13:57+08:00"
+      "checked_at": "2026-05-01T01:29:00+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T01:13:55+08:00"
+      "checked_at": "2026-05-01T01:28:55+08:00"
     },
     {
       "file": "kh***@hotmail.com.json",
@@ -133,7 +133,7 @@
       "five_hour": {
         "used_percent": 14.0,
         "remaining_percent": 86.0,
-        "reset_at": 1777576536,
+        "reset_at": 1777576537,
         "reset_label": "05-01 03:15"
       },
       "weekly": {
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T01:13:58+08:00"
+      "checked_at": "2026-05-01T01:29:02+08:00"
     },
     {
       "file": "ky***@hotmail.com.json",
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T01:14:00+08:00"
+      "checked_at": "2026-05-01T01:29:03+08:00"
     },
     {
       "file": "ro***@hotmail.com.json",
@@ -209,8 +209,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 43.0,
-        "remaining_percent": 57.0,
+        "used_percent": 42.0,
+        "remaining_percent": 58.0,
         "reset_at": 1777571906,
         "reset_label": "05-01 01:58"
       },
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T01:14:02+08:00"
+      "checked_at": "2026-05-01T01:29:06+08:00"
     },
     {
       "file": "ry***@hotmail.com.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T01:14:04+08:00"
+      "checked_at": "2026-05-01T01:29:08+08:00"
     }
   ]
 }
