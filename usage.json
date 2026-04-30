@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T17:38:36+08:00",
+  "generated_at": "2026-04-30T17:53:51+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -16,13 +16,13 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777559914,
-        "reset_label": "04-30 22:38"
+        "reset_at": 1777560829,
+        "reset_label": "04-30 22:53"
       },
       "weekly": {
         "used_percent": 19.0,
         "remaining_percent": 81.0,
-        "reset_at": 1778047803,
+        "reset_at": 1778047802,
         "reset_label": "05-06 14:10"
       },
       "code_review_five_hour": {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T17:38:32+08:00"
+      "checked_at": "2026-04-30T17:53:47+08:00"
     },
     {
       "file": "ky***@hotmail.com.json",
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T17:38:31+08:00"
+      "checked_at": "2026-04-30T17:53:45+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -94,13 +94,13 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777559909,
-        "reset_label": "04-30 22:38"
+        "reset_at": 1777560543,
+        "reset_label": "04-30 22:49"
       },
       "weekly": {
         "used_percent": 41.0,
         "remaining_percent": 59.0,
-        "reset_at": 1777959045,
+        "reset_at": 1777959044,
         "reset_label": "05-05 13:30"
       },
       "code_review_five_hour": {
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T17:38:28+08:00"
+      "checked_at": "2026-04-30T17:53:43+08:00"
     },
     {
       "file": "ry***@hotmail.com.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T17:38:35+08:00"
+      "checked_at": "2026-04-30T17:53:50+08:00"
     },
     {
       "file": "kh***@hotmail.com.json",
@@ -170,14 +170,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 34.0,
-        "remaining_percent": 66.0,
-        "reset_at": 1777558128,
+        "used_percent": 37.0,
+        "remaining_percent": 63.0,
+        "reset_at": 1777558127,
         "reset_label": "04-30 22:08"
       },
       "weekly": {
-        "used_percent": 34.0,
-        "remaining_percent": 66.0,
+        "used_percent": 35.0,
+        "remaining_percent": 65.0,
         "reset_at": 1778047665,
         "reset_label": "05-06 14:07"
       },
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T17:38:29+08:00"
+      "checked_at": "2026-04-30T17:53:44+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T17:38:25+08:00"
+      "checked_at": "2026-04-30T17:53:39+08:00"
     },
     {
       "file": "ro***@hotmail.com.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T17:38:34+08:00"
+      "checked_at": "2026-04-30T17:53:49+08:00"
     }
   ]
 }
