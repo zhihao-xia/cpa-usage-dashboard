@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T02:14:12+08:00",
+  "generated_at": "2026-05-01T02:29:10+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -16,8 +16,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777590852,
-        "reset_label": "05-01 07:14"
+        "reset_at": 1777591749,
+        "reset_label": "05-01 07:29"
       },
       "weekly": {
         "used_percent": 42.0,
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T02:14:11+08:00"
+      "checked_at": "2026-05-01T02:29:08+08:00"
     },
     {
       "file": "re***@hotmail.com.json",
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T02:14:08+08:00"
+      "checked_at": "2026-05-01T02:29:06+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T02:14:03+08:00"
+      "checked_at": "2026-05-01T02:29:03+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T02:14:01+08:00"
+      "checked_at": "2026-05-01T02:29:02+08:00"
     },
     {
       "file": "kh***@hotmail.com.json",
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T02:14:04+08:00"
+      "checked_at": "2026-05-01T02:29:04+08:00"
     },
     {
       "file": "ky***@hotmail.com.json",
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T02:14:06+08:00"
+      "checked_at": "2026-05-01T02:29:05+08:00"
     },
     {
       "file": "ro***@hotmail.com.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T02:14:10+08:00"
+      "checked_at": "2026-05-01T02:29:07+08:00"
     }
   ]
 }
