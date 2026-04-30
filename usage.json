@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-30T07:54:09+08:00",
+  "generated_at": "2026-04-30T08:09:15+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
-      "file": "ky***@hotmail.com.json",
-      "email": "ky***@hotmail.com",
-      "account": "79b97734...",
+      "file": "ad***@hotmail.com.json",
+      "email": "ad***@hotmail.com",
+      "account": "5223f79d...",
       "type": "codex",
       "disabled": false,
-      "token_expired_at": "2026-05-09T13:48:23+08:00",
+      "token_expired_at": "2026-05-09T13:49:07+08:00",
       "status": "ok",
-      "plan": "Plus",
+      "plan": "Free",
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 70.0,
-        "remaining_percent": 30.0,
-        "reset_at": 1777515254,
-        "reset_label": "04-30 10:14"
+        "used_percent": 0.0,
+        "remaining_percent": 100,
+        "reset_at": 1778112546,
+        "reset_label": "05-07 08:09"
       },
       "weekly": {
-        "used_percent": 12.0,
-        "remaining_percent": 88.0,
-        "reset_at": 1778047718,
-        "reset_label": "05-06 14:08"
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -39,46 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T07:54:01+08:00"
-    },
-    {
-      "file": "re***@hotmail.com.json",
-      "email": "re***@hotmail.com",
-      "account": "169d1c41...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-09T13:48:48+08:00",
-      "status": "ok",
-      "plan": "Plus",
-      "allowed": true,
-      "limit_reached": false,
-      "five_hour": {
-        "used_percent": 72.0,
-        "remaining_percent": 28.0,
-        "reset_at": 1777515264,
-        "reset_label": "04-30 10:14"
-      },
-      "weekly": {
-        "used_percent": 12.0,
-        "remaining_percent": 88.0,
-        "reset_at": 1778047803,
-        "reset_label": "05-06 14:10"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "",
-      "checked_at": "2026-04-30T07:54:03+08:00"
+      "checked_at": "2026-04-30T08:09:05+08:00"
     },
     {
       "file": "kh***@hotmail.com.json",
@@ -92,14 +53,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 74.0,
-        "remaining_percent": 26.0,
+        "used_percent": 99.0,
+        "remaining_percent": 1.0,
         "reset_at": 1777515253,
         "reset_label": "04-30 10:14"
       },
       "weekly": {
-        "used_percent": 12.0,
-        "remaining_percent": 88.0,
+        "used_percent": 16.0,
+        "remaining_percent": 84.0,
         "reset_at": 1778047665,
         "reset_label": "05-06 14:07"
       },
@@ -117,29 +78,29 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T07:54:00+08:00"
+      "checked_at": "2026-04-30T08:09:09+08:00"
     },
     {
-      "file": "ro***@hotmail.com.json",
-      "email": "ro***@hotmail.com",
-      "account": "cc042bd7...",
+      "file": "re***@hotmail.com.json",
+      "email": "re***@hotmail.com",
+      "account": "169d1c41...",
       "type": "codex",
       "disabled": false,
-      "token_expired_at": "2026-05-09T13:49:30+08:00",
+      "token_expired_at": "2026-05-09T13:48:48+08:00",
       "status": "ok",
       "plan": "Plus",
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 82.0,
-        "remaining_percent": 18.0,
-        "reset_at": 1777515272,
+        "used_percent": 99.0,
+        "remaining_percent": 1.0,
+        "reset_at": 1777515264,
         "reset_label": "04-30 10:14"
       },
       "weekly": {
-        "used_percent": 14.0,
-        "remaining_percent": 86.0,
-        "reset_at": 1778047840,
+        "used_percent": 16.0,
+        "remaining_percent": 84.0,
+        "reset_at": 1778047802,
         "reset_label": "05-06 14:10"
       },
       "code_review_five_hour": {
@@ -156,30 +117,30 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T07:54:05+08:00"
+      "checked_at": "2026-04-30T08:09:11+08:00"
     },
     {
-      "file": "codex-xz***@163.com-plus.json",
-      "email": "xz***@163.com",
-      "account": "d564e7fb...",
+      "file": "ro***@hotmail.com.json",
+      "email": "ro***@hotmail.com",
+      "account": "cc042bd7...",
       "type": "codex",
       "disabled": false,
-      "token_expired_at": "2026-05-08T14:21:52+08:00",
+      "token_expired_at": "2026-05-09T13:49:30+08:00",
       "status": "ok",
       "plan": "Plus",
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 82.0,
-        "remaining_percent": 18.0,
-        "reset_at": 1777515245,
+        "used_percent": 99.0,
+        "remaining_percent": 1.0,
+        "reset_at": 1777515272,
         "reset_label": "04-30 10:14"
       },
       "weekly": {
-        "used_percent": 34.0,
-        "remaining_percent": 66.0,
-        "reset_at": 1777959045,
-        "reset_label": "05-05 13:30"
+        "used_percent": 16.0,
+        "remaining_percent": 84.0,
+        "reset_at": 1778047839,
+        "reset_label": "05-06 14:10"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -195,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T07:53:58+08:00"
+      "checked_at": "2026-04-30T08:09:12+08:00"
     },
     {
       "file": "ry***@hotmail.com.json",
@@ -209,14 +170,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 86.0,
-        "remaining_percent": 14.0,
+        "used_percent": 99.0,
+        "remaining_percent": 1.0,
         "reset_at": 1777515277,
         "reset_label": "04-30 10:14"
       },
       "weekly": {
-        "used_percent": 14.0,
-        "remaining_percent": 86.0,
+        "used_percent": 16.0,
+        "remaining_percent": 84.0,
         "reset_at": 1778047893,
         "reset_label": "05-06 14:11"
       },
@@ -234,7 +195,46 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T07:54:06+08:00"
+      "checked_at": "2026-04-30T08:09:13+08:00"
+    },
+    {
+      "file": "ky***@hotmail.com.json",
+      "email": "ky***@hotmail.com",
+      "account": "79b97734...",
+      "type": "codex",
+      "disabled": false,
+      "token_expired_at": "2026-05-09T13:48:23+08:00",
+      "status": "ok",
+      "plan": "Plus",
+      "allowed": true,
+      "limit_reached": false,
+      "five_hour": {
+        "used_percent": 100.0,
+        "remaining_percent": 0,
+        "reset_at": 1777515253,
+        "reset_label": "04-30 10:14"
+      },
+      "weekly": {
+        "used_percent": 16.0,
+        "remaining_percent": 84.0,
+        "reset_at": 1778047718,
+        "reset_label": "05-06 14:08"
+      },
+      "code_review_five_hour": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "code_review_weekly": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "additional": [],
+      "error": "",
+      "checked_at": "2026-04-30T08:09:10+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -248,8 +248,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 96.0,
-        "remaining_percent": 4.0,
+        "used_percent": 100.0,
+        "remaining_percent": 0,
         "reset_at": 1777515243,
         "reset_label": "04-30 10:14"
       },
@@ -273,30 +273,30 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T07:53:57+08:00"
+      "checked_at": "2026-04-30T08:09:06+08:00"
     },
     {
-      "file": "ad***@hotmail.com.json",
-      "email": "ad***@hotmail.com",
-      "account": "5223f79d...",
+      "file": "codex-xz***@163.com-plus.json",
+      "email": "xz***@163.com",
+      "account": "d564e7fb...",
       "type": "codex",
       "disabled": false,
-      "token_expired_at": "2026-05-09T13:49:07+08:00",
-      "status": "error",
-      "plan": "-",
-      "allowed": null,
-      "limit_reached": null,
+      "token_expired_at": "2026-05-08T14:21:52+08:00",
+      "status": "ok",
+      "plan": "Plus",
+      "allowed": false,
+      "limit_reached": true,
       "five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
+        "used_percent": 100.0,
+        "remaining_percent": 0,
+        "reset_at": 1777515245,
+        "reset_label": "04-30 10:14"
       },
       "weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
+        "used_percent": 37.0,
+        "remaining_percent": 63.0,
+        "reset_at": 1777959044,
+        "reset_label": "05-05 13:30"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -311,8 +311,8 @@
         "reset_label": "-"
       },
       "additional": [],
-      "error": "HTTP 401: Encountered invalidated oauth token for user, failing request",
-      "checked_at": "2026-04-30T07:53:57+08:00"
+      "error": "",
+      "checked_at": "2026-04-30T08:09:07+08:00"
     },
     {
       "file": "ja***@hotmail.com.json",
@@ -350,8 +350,8 @@
         "reset_label": "-"
       },
       "additional": [],
-      "error": "HTTP 401: Encountered invalidated oauth token for user, failing request",
-      "checked_at": "2026-04-30T07:53:59+08:00"
+      "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
+      "checked_at": "2026-04-30T08:09:08+08:00"
     },
     {
       "file": "qi***@hotmail.com.json",
@@ -390,7 +390,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Encountered invalidated oauth token for user, failing request",
-      "checked_at": "2026-04-30T07:54:03+08:00"
+      "checked_at": "2026-04-30T08:09:11+08:00"
     },
     {
       "file": "sa***@hotmail.com.json",
@@ -429,7 +429,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T07:54:08+08:00"
+      "checked_at": "2026-04-30T08:09:14+08:00"
     },
     {
       "file": "sp***@hotmail.com.json",
@@ -468,7 +468,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T07:54:08+08:00"
+      "checked_at": "2026-04-30T08:09:15+08:00"
     }
   ]
 }
