@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T15:36:51+08:00",
+  "generated_at": "2026-04-30T15:51:55+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T15:36:47+08:00"
+      "checked_at": "2026-04-30T15:51:53+08:00"
     },
     {
       "file": "ky***@hotmail.com.json",
@@ -55,8 +55,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777552606,
-        "reset_label": "04-30 20:36"
+        "reset_at": 1777553512,
+        "reset_label": "04-30 20:51"
       },
       "weekly": {
         "used_percent": 20.0,
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T15:36:44+08:00"
+      "checked_at": "2026-04-30T15:51:51+08:00"
     },
     {
       "file": "ry***@hotmail.com.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T15:36:49+08:00"
+      "checked_at": "2026-04-30T15:51:54+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -133,8 +133,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777552602,
-        "reset_label": "04-30 20:36"
+        "reset_at": 1777553509,
+        "reset_label": "04-30 20:51"
       },
       "weekly": {
         "used_percent": 41.0,
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T15:36:41+08:00"
+      "checked_at": "2026-04-30T15:51:48+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T15:36:39+08:00"
+      "checked_at": "2026-04-30T15:51:47+08:00"
     },
     {
       "file": "re***@hotmail.com.json",
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T15:36:46+08:00"
+      "checked_at": "2026-04-30T15:51:52+08:00"
     },
     {
       "file": "kh***@hotmail.com.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T15:36:42+08:00"
+      "checked_at": "2026-04-30T15:51:49+08:00"
     }
   ]
 }
