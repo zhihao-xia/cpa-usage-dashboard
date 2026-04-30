@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T09:40:07+08:00",
+  "generated_at": "2026-04-30T09:55:09+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T09:39:58+08:00"
+      "checked_at": "2026-04-30T09:55:00+08:00"
     },
     {
       "file": "re***@hotmail.com.json",
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T09:40:01+08:00"
+      "checked_at": "2026-04-30T09:55:04+08:00"
     },
     {
       "file": "ro***@hotmail.com.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T09:40:02+08:00"
+      "checked_at": "2026-04-30T09:55:05+08:00"
     },
     {
       "file": "ry***@hotmail.com.json",
@@ -133,13 +133,13 @@
       "five_hour": {
         "used_percent": 99.0,
         "remaining_percent": 1.0,
-        "reset_at": 1777515279,
+        "reset_at": 1777515278,
         "reset_label": "04-30 10:14"
       },
       "weekly": {
         "used_percent": 16.0,
         "remaining_percent": 84.0,
-        "reset_at": 1778047894,
+        "reset_at": 1778047893,
         "reset_label": "05-06 14:11"
       },
       "code_review_five_hour": {
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T09:40:04+08:00"
+      "checked_at": "2026-04-30T09:55:07+08:00"
     },
     {
       "file": "ky***@hotmail.com.json",
@@ -172,7 +172,7 @@
       "five_hour": {
         "used_percent": 100.0,
         "remaining_percent": 0,
-        "reset_at": 1777515253,
+        "reset_at": 1777515254,
         "reset_label": "04-30 10:14"
       },
       "weekly": {
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T09:39:59+08:00"
+      "checked_at": "2026-04-30T09:55:01+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -211,7 +211,7 @@
       "five_hour": {
         "used_percent": 100.0,
         "remaining_percent": 0,
-        "reset_at": 1777515243,
+        "reset_at": 1777515244,
         "reset_label": "04-30 10:14"
       },
       "weekly": {
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T09:39:55+08:00"
+      "checked_at": "2026-04-30T09:54:56+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-04-30T09:39:56+08:00"
+      "checked_at": "2026-04-30T09:54:58+08:00"
     },
     {
       "file": "ad***@hotmail.com.json",
@@ -312,7 +312,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T09:39:55+08:00"
+      "checked_at": "2026-04-30T09:54:56+08:00"
     },
     {
       "file": "ja***@hotmail.com.json",
@@ -351,7 +351,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T09:39:58+08:00"
+      "checked_at": "2026-04-30T09:54:59+08:00"
     },
     {
       "file": "qi***@hotmail.com.json",
@@ -390,7 +390,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T09:40:00+08:00"
+      "checked_at": "2026-04-30T09:55:03+08:00"
     },
     {
       "file": "sa***@hotmail.com.json",
@@ -429,7 +429,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T09:40:06+08:00"
+      "checked_at": "2026-04-30T09:55:09+08:00"
     },
     {
       "file": "sp***@hotmail.com.json",
@@ -468,7 +468,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-04-30T09:40:07+08:00"
+      "checked_at": "2026-04-30T09:55:09+08:00"
     }
   ]
 }
