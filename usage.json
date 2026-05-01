@@ -1,46 +1,7 @@
 {
-  "generated_at": "2026-05-01T22:30:23+08:00",
+  "generated_at": "2026-05-01T22:45:20+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
-    {
-      "file": "codex-bdc051d0-14***@qq.com-team.json",
-      "email": "14***@qq.com",
-      "account": "9ea625b9...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-11T22:10:33+08:00",
-      "status": "ok",
-      "plan": "Team",
-      "allowed": true,
-      "limit_reached": false,
-      "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
-        "reset_at": 1777663819,
-        "reset_label": "05-02 03:30"
-      },
-      "weekly": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
-        "reset_at": 1778250619,
-        "reset_label": "05-08 22:30"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "",
-      "checked_at": "2026-05-01T22:30:16+08:00"
-    },
     {
       "file": "codex-bdc051d0-73***@qq.com-team.json",
       "email": "73***@qq.com",
@@ -55,14 +16,14 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777663821,
-        "reset_label": "05-02 03:30"
+        "reset_at": 1777664717,
+        "reset_label": "05-02 03:45"
       },
       "weekly": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1778250621,
-        "reset_label": "05-08 22:30"
+        "reset_at": 1778251517,
+        "reset_label": "05-08 22:45"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -78,7 +39,46 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T22:30:19+08:00"
+      "checked_at": "2026-05-01T22:45:16+08:00"
+    },
+    {
+      "file": "codex-bdc051d0-14***@qq.com-team.json",
+      "email": "14***@qq.com",
+      "account": "9ea625b9...",
+      "type": "codex",
+      "disabled": false,
+      "token_expired_at": "2026-05-11T22:10:33+08:00",
+      "status": "ok",
+      "plan": "Team",
+      "allowed": true,
+      "limit_reached": false,
+      "five_hour": {
+        "used_percent": 1.0,
+        "remaining_percent": 99.0,
+        "reset_at": 1777664633,
+        "reset_label": "05-02 03:43"
+      },
+      "weekly": {
+        "used_percent": 0.0,
+        "remaining_percent": 100,
+        "reset_at": 1778251433,
+        "reset_label": "05-08 22:43"
+      },
+      "code_review_five_hour": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "code_review_weekly": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "additional": [],
+      "error": "",
+      "checked_at": "2026-05-01T22:45:15+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T22:30:13+08:00"
+      "checked_at": "2026-05-01T22:45:14+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -131,14 +131,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 1.0,
-        "remaining_percent": 99.0,
+        "used_percent": 30.0,
+        "remaining_percent": 70.0,
         "reset_at": 1777663814,
         "reset_label": "05-02 03:30"
       },
       "weekly": {
-        "used_percent": 80.0,
-        "remaining_percent": 20.0,
+        "used_percent": 84.0,
+        "remaining_percent": 16.0,
         "reset_at": 1777959045,
         "reset_label": "05-05 13:30"
       },
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T22:30:21+08:00"
+      "checked_at": "2026-05-01T22:45:17+08:00"
     }
   ]
 }
