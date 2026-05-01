@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T13:51:19+08:00",
+  "generated_at": "2026-05-01T14:06:30+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -22,7 +22,7 @@
       "weekly": {
         "used_percent": 64.0,
         "remaining_percent": 36.0,
-        "reset_at": 1777959044,
+        "reset_at": 1777959045,
         "reset_label": "05-05 13:30"
       },
       "code_review_five_hour": {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T13:51:16+08:00"
+      "checked_at": "2026-05-01T14:06:26+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -55,7 +55,7 @@
       "five_hour": {
         "used_percent": 84.0,
         "remaining_percent": 16.0,
-        "reset_at": 1778027697,
+        "reset_at": 1778027699,
         "reset_label": "05-06 08:34"
       },
       "weekly": {
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T13:51:13+08:00"
+      "checked_at": "2026-05-01T14:06:21+08:00"
     },
     {
       "file": "kh***@hotmail.com.json",
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-05-01T13:51:18+08:00"
+      "checked_at": "2026-05-01T14:06:28+08:00"
     },
     {
       "file": "ky***@hotmail.com.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-05-01T13:51:18+08:00"
+      "checked_at": "2026-05-01T14:06:29+08:00"
     },
     {
       "file": "re***@hotmail.com.json",
@@ -195,7 +195,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-05-01T13:51:18+08:00"
+      "checked_at": "2026-05-01T14:06:29+08:00"
     },
     {
       "file": "ro***@hotmail.com.json",
@@ -234,7 +234,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-05-01T13:51:19+08:00"
+      "checked_at": "2026-05-01T14:06:29+08:00"
     },
     {
       "file": "ry***@hotmail.com.json",
@@ -273,7 +273,7 @@
       },
       "additional": [],
       "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-05-01T13:51:19+08:00"
+      "checked_at": "2026-05-01T14:06:30+08:00"
     }
   ]
 }
