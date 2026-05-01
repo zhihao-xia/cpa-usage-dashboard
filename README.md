@@ -2,19 +2,16 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-05-01T21:59:25+08:00`
+Last updated: `2026-05-01T22:14:46+08:00`
 
 To permanently delete an unusable account, edit that row's last `Delete` cell from `[ ]` to `[x]` and commit the README change. Keep the hidden `CPA_DELETE_FILE` comment in that cell unchanged.
 
 | Credential | Plan | Status | 5h Remaining | 5h Reset | Weekly Remaining | Weekly Reset | Delete |
 |---|---:|---|---:|---:|---:|---:|:---:|
+| codex-bdc051d0-14***@qq.com-team.json | Team | OK | 100% | 05-02 03:14 | 100% | 05-08 22:14 | [ ] <!-- CPA_DELETE_FILE:codex-bdc051d0-1440278019@qq.com-team.json --> |
+| codex-bdc051d0-73***@qq.com-team.json | Team | OK | 100% | 05-02 03:14 | 100% | 05-08 22:14 | [ ] <!-- CPA_DELETE_FILE:codex-bdc051d0-734393390@qq.com-team.json --> |
 | codex-73***@qq.com-plus.json | Plus | OK | 99% | 05-02 02:56 | 25% | 05-05 13:30 | [ ] <!-- CPA_DELETE_FILE:codex-734393390@qq.com-plus.json --> |
-| codex-xz***@163.com-plus.json | Plus | OK | 38% | 05-01 22:29 | 25% | 05-05 13:30 | [ ] <!-- CPA_DELETE_FILE:codex-xzzhhh@163.com-plus.json --> |
-| kh***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [x] <!-- CPA_DELETE_FILE:khazaventuradlau@hotmail.com.json --> |
-| ky***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [x] <!-- CPA_DELETE_FILE:kylecorreaguoe@hotmail.com.json --> |
-| re***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [x] <!-- CPA_DELETE_FILE:rexfarrellvrao@hotmail.com.json --> |
-| ro***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [x] <!-- CPA_DELETE_FILE:rorynelsonxakj@hotmail.com.json --> |
-| ry***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [x] <!-- CPA_DELETE_FILE:ryanvargaswaln@hotmail.com.json --> |
+| codex-xz***@163.com-plus.json | Plus | OK | 22% | 05-01 22:29 | 23% | 05-05 13:30 | [ ] <!-- CPA_DELETE_FILE:codex-xzzhhh@163.com-plus.json --> |
 
 This dashboard is generated automatically from the CPA server.
 The generated dashboard table publishes only masked quota summaries.

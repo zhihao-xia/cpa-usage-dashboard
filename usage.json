@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-05-01T21:59:25+08:00",
+  "generated_at": "2026-05-01T22:14:46+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
+    {
+      "file": "codex-bdc051d0-14***@qq.com-team.json",
+      "email": "14***@qq.com",
+      "account": "9ea625b9...",
+      "type": "codex",
+      "disabled": false,
+      "token_expired_at": "2026-05-11T22:10:33+08:00",
+      "status": "ok",
+      "plan": "Team",
+      "allowed": true,
+      "limit_reached": false,
+      "five_hour": {
+        "used_percent": 0.0,
+        "remaining_percent": 100,
+        "reset_at": 1777662884,
+        "reset_label": "05-02 03:14"
+      },
+      "weekly": {
+        "used_percent": 0.0,
+        "remaining_percent": 100,
+        "reset_at": 1778249684,
+        "reset_label": "05-08 22:14"
+      },
+      "code_review_five_hour": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "code_review_weekly": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "additional": [],
+      "error": "",
+      "checked_at": "2026-05-01T22:14:41+08:00"
+    },
+    {
+      "file": "codex-bdc051d0-73***@qq.com-team.json",
+      "email": "73***@qq.com",
+      "account": "9ea625b9...",
+      "type": "codex",
+      "disabled": false,
+      "token_expired_at": "2026-05-11T22:09:45+08:00",
+      "status": "ok",
+      "plan": "Team",
+      "allowed": true,
+      "limit_reached": false,
+      "five_hour": {
+        "used_percent": 0.0,
+        "remaining_percent": 100,
+        "reset_at": 1777662885,
+        "reset_label": "05-02 03:14"
+      },
+      "weekly": {
+        "used_percent": 0.0,
+        "remaining_percent": 100,
+        "reset_at": 1778249685,
+        "reset_label": "05-08 22:14"
+      },
+      "code_review_five_hour": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "code_review_weekly": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "additional": [],
+      "error": "",
+      "checked_at": "2026-05-01T22:14:44+08:00"
+    },
     {
       "file": "codex-73***@qq.com-plus.json",
       "email": "73***@qq.com",
@@ -39,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T21:59:20+08:00"
+      "checked_at": "2026-05-01T22:14:39+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -53,14 +131,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 62.0,
-        "remaining_percent": 38.0,
+        "used_percent": 78.0,
+        "remaining_percent": 22.0,
         "reset_at": 1777645792,
         "reset_label": "05-01 22:29"
       },
       "weekly": {
-        "used_percent": 75.0,
-        "remaining_percent": 25.0,
+        "used_percent": 77.0,
+        "remaining_percent": 23.0,
         "reset_at": 1777959045,
         "reset_label": "05-05 13:30"
       },
@@ -78,202 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-01T21:59:22+08:00"
-    },
-    {
-      "file": "kh***@hotmail.com.json",
-      "email": "kh***@hotmail.com",
-      "account": "c37c1fd4...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-09T13:48:19+08:00",
-      "status": "error",
-      "plan": "-",
-      "allowed": null,
-      "limit_reached": null,
-      "five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-05-01T21:59:23+08:00"
-    },
-    {
-      "file": "ky***@hotmail.com.json",
-      "email": "ky***@hotmail.com",
-      "account": "79b97734...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-09T13:48:23+08:00",
-      "status": "error",
-      "plan": "-",
-      "allowed": null,
-      "limit_reached": null,
-      "five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-05-01T21:59:24+08:00"
-    },
-    {
-      "file": "re***@hotmail.com.json",
-      "email": "re***@hotmail.com",
-      "account": "169d1c41...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-09T13:48:48+08:00",
-      "status": "error",
-      "plan": "-",
-      "allowed": null,
-      "limit_reached": null,
-      "five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-05-01T21:59:24+08:00"
-    },
-    {
-      "file": "ro***@hotmail.com.json",
-      "email": "ro***@hotmail.com",
-      "account": "cc042bd7...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-09T13:49:30+08:00",
-      "status": "error",
-      "plan": "-",
-      "allowed": null,
-      "limit_reached": null,
-      "five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-05-01T21:59:24+08:00"
-    },
-    {
-      "file": "ry***@hotmail.com.json",
-      "email": "ry***@hotmail.com",
-      "account": "3e38a3e5...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-09T13:48:51+08:00",
-      "status": "error",
-      "plan": "-",
-      "allowed": null,
-      "limit_reached": null,
-      "five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "HTTP 401: Your authentication token has been invalidated. Please try signing in again.",
-      "checked_at": "2026-05-01T21:59:24+08:00"
+      "checked_at": "2026-05-01T22:14:45+08:00"
     }
   ]
 }
