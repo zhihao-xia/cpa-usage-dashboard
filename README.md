@@ -2,7 +2,7 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-05-02T02:34:01+08:00`
+Last updated: `2026-05-02T02:49:00+08:00`
 
 To permanently delete an unusable account, edit that row's last `Delete` cell from `[ ]` to `[x]` and commit the README change. Keep the hidden `CPA_DELETE_FILE` comment in that cell unchanged.
 
