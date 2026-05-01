@@ -10,11 +10,11 @@ To permanently delete an unusable account, edit that row's last `Delete` cell fr
 |---|---:|---|---:|---:|---:|---:|:---:|
 | codex-73***@qq.com-plus.json | Plus | OK | 99% | 05-02 02:56 | 25% | 05-05 13:30 | [ ] <!-- CPA_DELETE_FILE:codex-734393390@qq.com-plus.json --> |
 | codex-xz***@163.com-plus.json | Plus | OK | 38% | 05-01 22:29 | 25% | 05-05 13:30 | [ ] <!-- CPA_DELETE_FILE:codex-xzzhhh@163.com-plus.json --> |
-| kh***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [ ] <!-- CPA_DELETE_FILE:khazaventuradlau@hotmail.com.json --> |
-| ky***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [ ] <!-- CPA_DELETE_FILE:kylecorreaguoe@hotmail.com.json --> |
-| re***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [ ] <!-- CPA_DELETE_FILE:rexfarrellvrao@hotmail.com.json --> |
-| ro***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [ ] <!-- CPA_DELETE_FILE:rorynelsonxakj@hotmail.com.json --> |
-| ry***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [ ] <!-- CPA_DELETE_FILE:ryanvargaswaln@hotmail.com.json --> |
+| kh***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [x] <!-- CPA_DELETE_FILE:khazaventuradlau@hotmail.com.json --> |
+| ky***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [x] <!-- CPA_DELETE_FILE:kylecorreaguoe@hotmail.com.json --> |
+| re***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [x] <!-- CPA_DELETE_FILE:rexfarrellvrao@hotmail.com.json --> |
+| ro***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [x] <!-- CPA_DELETE_FILE:rorynelsonxakj@hotmail.com.json --> |
+| ry***@hotmail.com.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - | [x] <!-- CPA_DELETE_FILE:ryanvargaswaln@hotmail.com.json --> |
 
 This dashboard is generated automatically from the CPA server.
 The generated dashboard table publishes only masked quota summaries.
