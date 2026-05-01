@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T05:04:23+08:00",
+  "generated_at": "2026-05-02T05:19:26+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T05:04:21+08:00"
+      "checked_at": "2026-05-02T05:19:23+08:00"
     },
     {
       "file": "codex-bdc051d0-73***@qq.com-team.json",
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T05:04:22+08:00"
+      "checked_at": "2026-05-02T05:19:24+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -94,8 +94,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777687461,
-        "reset_label": "05-02 10:04"
+        "reset_at": 1777688363,
+        "reset_label": "05-02 10:19"
       },
       "weekly": {
         "used_percent": 85.0,
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T05:04:21+08:00"
+      "checked_at": "2026-05-02T05:19:21+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T05:04:23+08:00"
+      "checked_at": "2026-05-02T05:19:25+08:00"
     }
   ]
 }
