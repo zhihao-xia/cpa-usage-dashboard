@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T11:19:53+08:00",
+  "generated_at": "2026-05-02T11:34:58+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -14,10 +14,10 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
-        "reset_at": 1777709991,
-        "reset_label": "05-02 16:19"
+        "used_percent": 3.0,
+        "remaining_percent": 97.0,
+        "reset_at": 1777710617,
+        "reset_label": "05-02 16:30"
       },
       "weekly": {
         "used_percent": 4.0,
@@ -39,46 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T11:19:51+08:00"
-    },
-    {
-      "file": "codex-bdc051d0-73***@qq.com-team.json",
-      "email": "73***@qq.com",
-      "account": "9ea625b9...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-11T22:09:45+08:00",
-      "status": "ok",
-      "plan": "Team",
-      "allowed": true,
-      "limit_reached": false,
-      "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
-        "reset_at": 1777709992,
-        "reset_label": "05-02 16:19"
-      },
-      "weekly": {
-        "used_percent": 10.0,
-        "remaining_percent": 90.0,
-        "reset_at": 1778253683,
-        "reset_label": "05-08 23:21"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "",
-      "checked_at": "2026-05-02T11:19:52+08:00"
+      "checked_at": "2026-05-02T11:34:52+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -92,14 +53,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
+        "used_percent": 3.0,
+        "remaining_percent": 97.0,
         "reset_at": 1777694304,
         "reset_label": "05-02 11:58"
       },
       "weekly": {
-        "used_percent": 85.0,
-        "remaining_percent": 15.0,
+        "used_percent": 86.0,
+        "remaining_percent": 14.0,
         "reset_at": 1777959025,
         "reset_label": "05-05 13:30"
       },
@@ -117,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T11:19:50+08:00"
+      "checked_at": "2026-05-02T11:34:51+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -131,15 +92,15 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 0.0,
-        "remaining_percent": 100,
-        "reset_at": 1777709993,
-        "reset_label": "05-02 16:19"
+        "used_percent": 3.0,
+        "remaining_percent": 97.0,
+        "reset_at": 1777710519,
+        "reset_label": "05-02 16:28"
       },
       "weekly": {
-        "used_percent": 95.0,
-        "remaining_percent": 5.0,
-        "reset_at": 1777959044,
+        "used_percent": 96.0,
+        "remaining_percent": 4.0,
+        "reset_at": 1777959045,
         "reset_label": "05-05 13:30"
       },
       "code_review_five_hour": {
@@ -156,7 +117,46 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T11:19:52+08:00"
+      "checked_at": "2026-05-02T11:34:55+08:00"
+    },
+    {
+      "file": "codex-bdc051d0-73***@qq.com-team.json",
+      "email": "73***@qq.com",
+      "account": "9ea625b9...",
+      "type": "codex",
+      "disabled": false,
+      "token_expired_at": "2026-05-11T22:09:45+08:00",
+      "status": "ok",
+      "plan": "Team",
+      "allowed": true,
+      "limit_reached": false,
+      "five_hour": {
+        "used_percent": 14.0,
+        "remaining_percent": 86.0,
+        "reset_at": 1777710503,
+        "reset_label": "05-02 16:28"
+      },
+      "weekly": {
+        "used_percent": 13.0,
+        "remaining_percent": 87.0,
+        "reset_at": 1778253683,
+        "reset_label": "05-08 23:21"
+      },
+      "code_review_five_hour": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "code_review_weekly": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "additional": [],
+      "error": "",
+      "checked_at": "2026-05-02T11:34:54+08:00"
     }
   ]
 }
