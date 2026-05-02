@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T02:36:41+08:00",
+  "generated_at": "2026-05-03T02:51:44+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -16,8 +16,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777764997,
-        "reset_label": "05-03 07:36"
+        "reset_at": 1777765901,
+        "reset_label": "05-03 07:51"
       },
       "weekly": {
         "used_percent": 27.0,
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T02:36:36+08:00"
+      "checked_at": "2026-05-03T02:51:40+08:00"
     },
     {
       "file": "codex-bdc051d0-73***@qq.com-team.json",
@@ -55,13 +55,13 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777764999,
-        "reset_label": "05-03 07:36"
+        "reset_at": 1777765902,
+        "reset_label": "05-03 07:51"
       },
       "weekly": {
         "used_percent": 37.0,
         "remaining_percent": 63.0,
-        "reset_at": 1778253684,
+        "reset_at": 1778253683,
         "reset_label": "05-08 23:21"
       },
       "code_review_five_hour": {
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T02:36:37+08:00"
+      "checked_at": "2026-05-03T02:51:41+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -94,8 +94,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1778351801,
-        "reset_label": "05-10 02:36"
+        "reset_at": 1778352704,
+        "reset_label": "05-10 02:51"
       },
       "weekly": {
         "used_percent": null,
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T02:36:39+08:00"
+      "checked_at": "2026-05-03T02:51:42+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T02:36:34+08:00"
+      "checked_at": "2026-05-03T02:51:39+08:00"
     }
   ]
 }
