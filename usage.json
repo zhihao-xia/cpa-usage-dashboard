@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T23:51:19+08:00",
+  "generated_at": "2026-05-03T00:06:21+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -14,14 +14,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 72.0,
-        "remaining_percent": 28.0,
+        "used_percent": 83.0,
+        "remaining_percent": 17.0,
         "reset_at": 1777746825,
         "reset_label": "05-03 02:33"
       },
       "weekly": {
-        "used_percent": 23.0,
-        "remaining_percent": 77.0,
+        "used_percent": 24.0,
+        "remaining_percent": 76.0,
         "reset_at": 1778251433,
         "reset_label": "05-08 22:43"
       },
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T23:51:16+08:00"
+      "checked_at": "2026-05-03T00:06:18+08:00"
     },
     {
       "file": "codex-bdc051d0-73***@qq.com-team.json",
@@ -53,14 +53,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 79.0,
-        "remaining_percent": 21.0,
+        "used_percent": 87.0,
+        "remaining_percent": 13.0,
         "reset_at": 1777746743,
         "reset_label": "05-03 02:32"
       },
       "weekly": {
-        "used_percent": 34.0,
-        "remaining_percent": 66.0,
+        "used_percent": 35.0,
+        "remaining_percent": 65.0,
         "reset_at": 1778253683,
         "reset_label": "05-08 23:21"
       },
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T23:51:17+08:00"
+      "checked_at": "2026-05-03T00:06:19+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -94,8 +94,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777755079,
-        "reset_label": "05-03 04:51"
+        "reset_at": 1777755981,
+        "reset_label": "05-03 05:06"
       },
       "weekly": {
         "used_percent": 100.0,
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T23:51:18+08:00"
+      "checked_at": "2026-05-03T00:06:20+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T23:51:14+08:00"
+      "checked_at": "2026-05-03T00:06:17+08:00"
     }
   ]
 }
