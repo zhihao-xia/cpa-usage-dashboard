@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T21:06:05+08:00",
+  "generated_at": "2026-05-02T21:21:04+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -14,8 +14,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 13.0,
-        "remaining_percent": 87.0,
+        "used_percent": 15.0,
+        "remaining_percent": 85.0,
         "reset_at": 1777730610,
         "reset_label": "05-02 22:03"
       },
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T21:06:00+08:00"
+      "checked_at": "2026-05-02T21:21:01+08:00"
     },
     {
       "file": "codex-bdc051d0-14***@qq.com-team.json",
@@ -53,8 +53,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 17.0,
-        "remaining_percent": 83.0,
+        "used_percent": 19.0,
+        "remaining_percent": 81.0,
         "reset_at": 1777728811,
         "reset_label": "05-02 21:33"
       },
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T21:06:02+08:00"
+      "checked_at": "2026-05-02T21:21:01+08:00"
     },
     {
       "file": "codex-bdc051d0-73***@qq.com-team.json",
@@ -92,8 +92,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 23.0,
-        "remaining_percent": 77.0,
+        "used_percent": 26.0,
+        "remaining_percent": 74.0,
         "reset_at": 1777728722,
         "reset_label": "05-02 21:32"
       },
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T21:06:03+08:00"
+      "checked_at": "2026-05-02T21:21:02+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -139,7 +139,7 @@
       "weekly": {
         "used_percent": 100.0,
         "remaining_percent": 0,
-        "reset_at": 1777959044,
+        "reset_at": 1777959045,
         "reset_label": "05-05 13:30"
       },
       "code_review_five_hour": {
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-02T21:06:04+08:00"
+      "checked_at": "2026-05-02T21:21:03+08:00"
     }
   ]
 }
