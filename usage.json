@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T18:31:10+08:00",
+  "generated_at": "2026-05-03T18:46:14+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -14,15 +14,15 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 81.0,
-        "remaining_percent": 19.0,
+        "used_percent": 94.0,
+        "remaining_percent": 6.0,
         "reset_at": 1777819795,
         "reset_label": "05-03 22:49"
       },
       "weekly": {
-        "used_percent": 55.0,
-        "remaining_percent": 45.0,
-        "reset_at": 1778253684,
+        "used_percent": 57.0,
+        "remaining_percent": 43.0,
+        "reset_at": 1778253683,
         "reset_label": "05-08 23:21"
       },
       "code_review_five_hour": {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T18:31:08+08:00"
+      "checked_at": "2026-05-03T18:46:11+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -53,8 +53,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 86.0,
-        "remaining_percent": 14.0,
+        "used_percent": 97.0,
+        "remaining_percent": 3.0,
         "reset_at": 1778354614,
         "reset_label": "05-10 03:23"
       },
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T18:31:09+08:00"
+      "checked_at": "2026-05-03T18:46:12+08:00"
     },
     {
       "file": "codex-bdc051d0-14***@qq.com-team.json",
@@ -94,7 +94,7 @@
       "five_hour": {
         "used_percent": 98.0,
         "remaining_percent": 2.0,
-        "reset_at": 1777819771,
+        "reset_at": 1777819772,
         "reset_label": "05-03 22:49"
       },
       "weekly": {
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T18:31:07+08:00"
+      "checked_at": "2026-05-03T18:46:09+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T18:31:06+08:00"
+      "checked_at": "2026-05-03T18:46:08+08:00"
     }
   ]
 }
