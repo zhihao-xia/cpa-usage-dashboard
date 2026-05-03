@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T11:12:06+08:00",
+  "generated_at": "2026-05-03T11:27:12+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -39,7 +39,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T11:12:05+08:00"
+      "checked_at": "2026-05-03T11:27:10+08:00"
     },
     {
       "file": "codex-bdc051d0-73***@qq.com-team.json",
@@ -53,14 +53,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 7.0,
-        "remaining_percent": 93.0,
+        "used_percent": 19.0,
+        "remaining_percent": 81.0,
         "reset_at": 1777795120,
         "reset_label": "05-03 15:58"
       },
       "weekly": {
-        "used_percent": 38.0,
-        "remaining_percent": 62.0,
+        "used_percent": 40.0,
+        "remaining_percent": 60.0,
         "reset_at": 1778253683,
         "reset_label": "05-08 23:21"
       },
@@ -78,7 +78,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T11:12:04+08:00"
+      "checked_at": "2026-05-03T11:27:09+08:00"
     },
     {
       "file": "codex-bdc051d0-14***@qq.com-team.json",
@@ -92,14 +92,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 11.0,
-        "remaining_percent": 89.0,
+        "used_percent": 28.0,
+        "remaining_percent": 72.0,
         "reset_at": 1777795106,
         "reset_label": "05-03 15:58"
       },
       "weekly": {
-        "used_percent": 29.0,
-        "remaining_percent": 71.0,
+        "used_percent": 31.0,
+        "remaining_percent": 69.0,
         "reset_at": 1778251433,
         "reset_label": "05-08 22:43"
       },
@@ -117,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T11:12:03+08:00"
+      "checked_at": "2026-05-03T11:27:08+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -133,8 +133,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777795923,
-        "reset_label": "05-03 16:12"
+        "reset_at": 1777796828,
+        "reset_label": "05-03 16:27"
       },
       "weekly": {
         "used_percent": 100.0,
@@ -156,7 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-03T11:12:02+08:00"
+      "checked_at": "2026-05-03T11:27:07+08:00"
     }
   ]
 }
