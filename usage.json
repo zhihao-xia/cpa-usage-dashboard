@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T16:17:19+08:00",
+  "generated_at": "2026-05-04T16:32:31+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -16,7 +16,7 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777887601,
+        "reset_at": 1777887602,
         "reset_label": "05-04 17:40"
       },
       "weekly": {
@@ -43,19 +43,19 @@
           "five_hour": {
             "used_percent": 0.0,
             "remaining_percent": 100,
-            "reset_at": 1777900634,
-            "reset_label": "05-04 21:17"
+            "reset_at": 1777901546,
+            "reset_label": "05-04 21:32"
           },
           "weekly": {
             "used_percent": 0.0,
             "remaining_percent": 100,
-            "reset_at": 1778487434,
-            "reset_label": "05-11 16:17"
+            "reset_at": 1778488346,
+            "reset_label": "05-11 16:32"
           }
         }
       ],
       "error": "",
-      "checked_at": "2026-05-04T16:17:13+08:00"
+      "checked_at": "2026-05-04T16:32:24+08:00"
     },
     {
       "file": "codex-bdc051d0-14***@qq.com-team.json",
@@ -94,7 +94,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T16:17:14+08:00"
+      "checked_at": "2026-05-04T16:32:26+08:00"
     },
     {
       "file": "codex-bdc051d0-73***@qq.com-team.json",
@@ -110,8 +110,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777900637,
-        "reset_label": "05-04 21:17"
+        "reset_at": 1777901548,
+        "reset_label": "05-04 21:32"
       },
       "weekly": {
         "used_percent": 100.0,
@@ -133,7 +133,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T16:17:15+08:00"
+      "checked_at": "2026-05-04T16:32:27+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -172,7 +172,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T16:17:17+08:00"
+      "checked_at": "2026-05-04T16:32:28+08:00"
     }
   ]
 }
