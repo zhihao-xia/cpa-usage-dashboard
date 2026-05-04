@@ -2,7 +2,7 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-05-04T19:25:23+08:00`
+Last updated: `2026-05-04T19:40:25+08:00`
 
 Edit the last `Action` cell and commit the README change: `[ ]` enables an account, `[-]` temporarily pauses it by writing `disabled: true`, and `[x]` permanently deletes it. Keep the hidden `CPA_ACCOUNT_FILE` comment in that cell unchanged.
 
