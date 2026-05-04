@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T19:55:29+08:00",
+  "generated_at": "2026-05-04T20:10:41+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -14,8 +14,8 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 4.0,
-        "remaining_percent": 96.0,
+        "used_percent": 5.0,
+        "remaining_percent": 95.0,
         "reset_at": 1777905727,
         "reset_label": "05-04 22:42"
       },
@@ -43,19 +43,19 @@
           "five_hour": {
             "used_percent": 0.0,
             "remaining_percent": 100,
-            "reset_at": 1777913729,
-            "reset_label": "05-05 00:55"
+            "reset_at": 1777914641,
+            "reset_label": "05-05 01:10"
           },
           "weekly": {
             "used_percent": 0.0,
             "remaining_percent": 100,
-            "reset_at": 1778500529,
-            "reset_label": "05-11 19:55"
+            "reset_at": 1778501441,
+            "reset_label": "05-11 20:10"
           }
         }
       ],
       "error": "",
-      "checked_at": "2026-05-04T19:55:28+08:00"
+      "checked_at": "2026-05-04T20:10:39+08:00"
     },
     {
       "file": "codex-bdc051d0-14***@qq.com-team.json",
@@ -94,7 +94,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-05-04T19:55:29+08:00"
+      "checked_at": "2026-05-04T20:10:41+08:00"
     },
     {
       "file": "codex-bdc051d0-73***@qq.com-team.json",
@@ -133,7 +133,7 @@
       },
       "additional": [],
       "error": "credential disabled",
-      "checked_at": "2026-05-04T19:55:29+08:00"
+      "checked_at": "2026-05-04T20:10:41+08:00"
     }
   ]
 }
