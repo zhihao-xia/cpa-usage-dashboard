@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-05-04T08:43:52+08:00",
+  "generated_at": "2026-05-04T08:59:01+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
+    {
+      "file": "codex-bdc051d0-73***@qq.com-team.json",
+      "email": "73***@qq.com",
+      "account": "9ea625b9...",
+      "type": "codex",
+      "disabled": false,
+      "token_expired_at": "2026-05-11T22:09:45+08:00",
+      "status": "ok",
+      "plan": "Team",
+      "allowed": true,
+      "limit_reached": false,
+      "five_hour": {
+        "used_percent": 12.0,
+        "remaining_percent": 88.0,
+        "reset_at": 1777873990,
+        "reset_label": "05-04 13:53"
+      },
+      "weekly": {
+        "used_percent": 91.0,
+        "remaining_percent": 9.0,
+        "reset_at": 1778253683,
+        "reset_label": "05-08 23:21"
+      },
+      "code_review_five_hour": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "code_review_weekly": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "additional": [],
+      "error": "",
+      "checked_at": "2026-05-04T08:58:59+08:00"
+    },
+    {
+      "file": "codex-bdc051d0-14***@qq.com-team.json",
+      "email": "14***@qq.com",
+      "account": "9ea625b9...",
+      "type": "codex",
+      "disabled": false,
+      "token_expired_at": "2026-05-11T22:10:33+08:00",
+      "status": "ok",
+      "plan": "Team",
+      "allowed": true,
+      "limit_reached": false,
+      "five_hour": {
+        "used_percent": 17.0,
+        "remaining_percent": 83.0,
+        "reset_at": 1777873983,
+        "reset_label": "05-04 13:53"
+      },
+      "weekly": {
+        "used_percent": 83.0,
+        "remaining_percent": 17.0,
+        "reset_at": 1778251433,
+        "reset_label": "05-08 22:43"
+      },
+      "code_review_five_hour": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "code_review_weekly": {
+        "used_percent": null,
+        "remaining_percent": null,
+        "reset_at": null,
+        "reset_label": "-"
+      },
+      "additional": [],
+      "error": "",
+      "checked_at": "2026-05-04T08:58:58+08:00"
+    },
     {
       "file": "codex-xz***@163.com-plus.json",
       "email": "xz***@163.com",
@@ -39,7 +117,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T08:43:51+08:00"
+      "checked_at": "2026-05-04T08:59:00+08:00"
     },
     {
       "file": "codex-73***@qq.com-plus.json",
@@ -55,8 +133,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777873428,
-        "reset_label": "05-04 13:43"
+        "reset_at": 1777874338,
+        "reset_label": "05-04 13:58"
       },
       "weekly": {
         "used_percent": 100.0,
@@ -78,85 +156,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T08:43:48+08:00"
-    },
-    {
-      "file": "codex-bdc051d0-14***@qq.com-team.json",
-      "email": "14***@qq.com",
-      "account": "9ea625b9...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-11T22:10:33+08:00",
-      "status": "ok",
-      "plan": "Team",
-      "allowed": true,
-      "limit_reached": false,
-      "five_hour": {
-        "used_percent": 100.0,
-        "remaining_percent": 0,
-        "reset_at": 1777855950,
-        "reset_label": "05-04 08:52"
-      },
-      "weekly": {
-        "used_percent": 80.0,
-        "remaining_percent": 20.0,
-        "reset_at": 1778251433,
-        "reset_label": "05-08 22:43"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "",
-      "checked_at": "2026-05-04T08:43:49+08:00"
-    },
-    {
-      "file": "codex-bdc051d0-73***@qq.com-team.json",
-      "email": "73***@qq.com",
-      "account": "9ea625b9...",
-      "type": "codex",
-      "disabled": false,
-      "token_expired_at": "2026-05-11T22:09:45+08:00",
-      "status": "ok",
-      "plan": "Team",
-      "allowed": true,
-      "limit_reached": false,
-      "five_hour": {
-        "used_percent": 100.0,
-        "remaining_percent": 0,
-        "reset_at": 1777855940,
-        "reset_label": "05-04 08:52"
-      },
-      "weekly": {
-        "used_percent": 89.0,
-        "remaining_percent": 11.0,
-        "reset_at": 1778253683,
-        "reset_label": "05-08 23:21"
-      },
-      "code_review_five_hour": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "code_review_weekly": {
-        "used_percent": null,
-        "remaining_percent": null,
-        "reset_at": null,
-        "reset_label": "-"
-      },
-      "additional": [],
-      "error": "",
-      "checked_at": "2026-05-04T08:43:50+08:00"
+      "checked_at": "2026-05-04T08:58:58+08:00"
     }
   ]
 }
