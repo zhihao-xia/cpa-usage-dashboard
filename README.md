@@ -2,13 +2,13 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-05-04T19:10:20+08:00`
+Last updated: `2026-05-04T19:25:23+08:00`
 
 Edit the last `Action` cell and commit the README change: `[ ]` enables an account, `[-]` temporarily pauses it by writing `disabled: true`, and `[x]` permanently deletes it. Keep the hidden `CPA_ACCOUNT_FILE` comment in that cell unchanged.
 
 | Credential | Plan | Status | 5h Remaining | 5h Reset | Weekly Remaining | Weekly Reset | Action |
 |---|---:|---|---:|---:|---:|---:|:---:|
-| codex-73***@qq.com-plus.json | Pro 20x | OK | 97% | 05-04 22:42 | 99% | 05-11 14:02 | [ ] <!-- CPA_ACCOUNT_FILE:codex-734393390@qq.com-plus.json --> |
+| codex-73***@qq.com-plus.json | Pro 20x | OK | 96% | 05-04 22:42 | 99% | 05-11 14:02 | [ ] <!-- CPA_ACCOUNT_FILE:codex-734393390@qq.com-plus.json --> |
 | codex-bdc051d0-14***@qq.com-team.json | - | DISABLED (credential disabled) | - | - | - | - | [-] <!-- CPA_ACCOUNT_FILE:codex-bdc051d0-1440278019@qq.com-team.json --> |
 | codex-bdc051d0-73***@qq.com-team.json | - | DISABLED (credential disabled) | - | - | - | - | [-] <!-- CPA_ACCOUNT_FILE:codex-bdc051d0-734393390@qq.com-team.json --> |
 
