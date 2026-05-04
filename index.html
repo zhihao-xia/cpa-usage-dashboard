@@ -16,6 +16,8 @@
       --accent-soft: #d8eee9;
       --danger: #b42318;
       --danger-soft: #fee4e2;
+      --pause: #92400e;
+      --pause-soft: #fef3c7;
     }
     * { box-sizing: border-box; }
     body {
@@ -38,12 +40,14 @@
     .refresh-status[data-state="error"] { color: var(--danger); border-color: #f2b8b5; background: #fff5f4; }
     .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
     .card { background: var(--card); border: 1px solid var(--line); border-radius: 24px; padding: 22px; box-shadow: 0 20px 60px #6b4f2a1f; }
+    .card.paused { background: #fff8e6; border-color: #f6c76b; }
     .card-head { display: flex; justify-content: space-between; gap: 14px; align-items: start; }
     h2 { margin: 0; font-size: 20px; word-break: break-word; }
     p { margin: 4px 0 0; color: var(--muted); }
     .pill { border-radius: 999px; padding: 6px 10px; font-size: 12px; font-weight: 700; text-transform: uppercase; }
     .pill.ok { background: var(--accent-soft); color: var(--accent); }
     .pill.bad { background: var(--danger-soft); color: var(--danger); }
+    .pill.paused { background: var(--pause-soft); color: var(--pause); }
     .plan { margin-top: 18px; color: var(--muted); }
     .plan strong { color: var(--ink); font-size: 22px; margin-left: 8px; }
     .metric { margin-top: 18px; }
@@ -71,7 +75,7 @@
         <p class="subtitle">Masked Codex quota summary generated from the CPA server.</p>
       </div>
       <div class="header-side">
-        <div class="updated" id="updated">Updated 2026-05-04T18:03:53+08:00</div>
+        <div class="updated" id="updated">Updated 2026-05-04T18:06:49+08:00</div>
         <div class="refresh-status" id="refresh-status" data-state="ok">Auto refresh every 60s</div>
       </div>
     </header>
@@ -111,7 +115,7 @@
           <div class="metric">
             <div><span>5h remaining</span><strong>100%</strong></div>
             <div class="bar"><span style="width:100%"></span></div>
-            <small>Reset: 05-04 23:03</small>
+            <small>Reset: 05-04 23:06</small>
           </div>
           <div class="metric">
             <div><span>Weekly remaining</span><strong>0%</strong></div>
@@ -285,14 +289,15 @@
     }
 
     function renderCard(item) {
-      const article = createNode("article", "card");
+      const isPaused = Boolean(item.disabled) || item.status === "disabled";
+      const article = createNode("article", isPaused ? "card paused" : "card");
       const head = createNode("div", "card-head");
       const headInfo = createNode("div");
       headInfo.appendChild(createNode("h2", "", item.file || "-"));
       headInfo.appendChild(createNode("p", "", item.email || ""));
       head.appendChild(headInfo);
 
-      const statusClass = item.status === "ok" ? "pill ok" : "pill bad";
+      const statusClass = isPaused ? "pill paused" : (item.status === "ok" ? "pill ok" : "pill bad");
       head.appendChild(createNode("span", statusClass, item.status || "unknown"));
       article.appendChild(head);
 
