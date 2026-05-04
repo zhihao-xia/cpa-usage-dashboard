@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T13:31:32+08:00",
+  "generated_at": "2026-05-04T13:46:46+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -10,20 +10,20 @@
       "disabled": false,
       "token_expired_at": "2026-05-08T14:30:44+08:00",
       "status": "ok",
-      "plan": "Plus",
-      "allowed": false,
-      "limit_reached": true,
+      "plan": "Pro 20x",
+      "allowed": true,
+      "limit_reached": false,
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777890689,
-        "reset_label": "05-04 18:31"
+        "reset_at": 1777891601,
+        "reset_label": "05-04 18:46"
       },
       "weekly": {
-        "used_percent": 100.0,
-        "remaining_percent": 0,
-        "reset_at": 1777959025,
-        "reset_label": "05-05 13:30"
+        "used_percent": 0.0,
+        "remaining_percent": 100,
+        "reset_at": 1778478401,
+        "reset_label": "05-11 13:46"
       },
       "code_review_five_hour": {
         "used_percent": null,
@@ -37,9 +37,25 @@
         "reset_at": null,
         "reset_label": "-"
       },
-      "additional": [],
+      "additional": [
+        {
+          "name": "GPT-5.3-Codex-Spark",
+          "five_hour": {
+            "used_percent": 0.0,
+            "remaining_percent": 100,
+            "reset_at": 1777891601,
+            "reset_label": "05-04 18:46"
+          },
+          "weekly": {
+            "used_percent": 0.0,
+            "remaining_percent": 100,
+            "reset_at": 1778478401,
+            "reset_label": "05-11 13:46"
+          }
+        }
+      ],
       "error": "",
-      "checked_at": "2026-05-04T13:31:28+08:00"
+      "checked_at": "2026-05-04T13:46:39+08:00"
     },
     {
       "file": "codex-bdc051d0-73***@qq.com-team.json",
@@ -78,7 +94,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T13:31:30+08:00"
+      "checked_at": "2026-05-04T13:46:42+08:00"
     },
     {
       "file": "codex-bdc051d0-14***@qq.com-team.json",
@@ -117,7 +133,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T13:31:29+08:00"
+      "checked_at": "2026-05-04T13:46:41+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -156,7 +172,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T13:31:31+08:00"
+      "checked_at": "2026-05-04T13:46:44+08:00"
     }
   ]
 }
