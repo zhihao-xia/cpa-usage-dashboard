@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T14:16:49+08:00",
+  "generated_at": "2026-05-04T14:31:52+08:00",
   "source": "chatgpt.com/backend-api/wham/usage",
   "records": [
     {
@@ -43,19 +43,19 @@
           "five_hour": {
             "used_percent": 0.0,
             "remaining_percent": 100,
-            "reset_at": 1777893404,
-            "reset_label": "05-04 19:16"
+            "reset_at": 1777894306,
+            "reset_label": "05-04 19:31"
           },
           "weekly": {
             "used_percent": 0.0,
             "remaining_percent": 100,
-            "reset_at": 1778480204,
-            "reset_label": "05-11 14:16"
+            "reset_at": 1778481106,
+            "reset_label": "05-11 14:31"
           }
         }
       ],
       "error": "",
-      "checked_at": "2026-05-04T14:16:43+08:00"
+      "checked_at": "2026-05-04T14:31:44+08:00"
     },
     {
       "file": "codex-bdc051d0-14***@qq.com-team.json",
@@ -69,14 +69,14 @@
       "allowed": true,
       "limit_reached": false,
       "five_hour": {
-        "used_percent": 2.0,
-        "remaining_percent": 98.0,
+        "used_percent": 7.0,
+        "remaining_percent": 93.0,
         "reset_at": 1777892801,
         "reset_label": "05-04 19:06"
       },
       "weekly": {
-        "used_percent": 96.0,
-        "remaining_percent": 4.0,
+        "used_percent": 97.0,
+        "remaining_percent": 3.0,
         "reset_at": 1778251433,
         "reset_label": "05-08 22:43"
       },
@@ -94,7 +94,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T14:16:44+08:00"
+      "checked_at": "2026-05-04T14:31:46+08:00"
     },
     {
       "file": "codex-bdc051d0-73***@qq.com-team.json",
@@ -110,8 +110,8 @@
       "five_hour": {
         "used_percent": 0.0,
         "remaining_percent": 100,
-        "reset_at": 1777893407,
-        "reset_label": "05-04 19:16"
+        "reset_at": 1777894309,
+        "reset_label": "05-04 19:31"
       },
       "weekly": {
         "used_percent": 100.0,
@@ -133,7 +133,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T14:16:46+08:00"
+      "checked_at": "2026-05-04T14:31:48+08:00"
     },
     {
       "file": "codex-xz***@163.com-plus.json",
@@ -172,7 +172,7 @@
       },
       "additional": [],
       "error": "",
-      "checked_at": "2026-05-04T14:16:47+08:00"
+      "checked_at": "2026-05-04T14:31:49+08:00"
     }
   ]
 }
